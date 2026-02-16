@@ -172,6 +172,6 @@ Found a bug or have a suggestion? [Open an issue](https://github.com/DavSah-1/Fl
 
 ---
 
-**Made with ❤️ for effective studying**
+**Made by Error417**
 
 Study smarter, not harder! 🎓✨
