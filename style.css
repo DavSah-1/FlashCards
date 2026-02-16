@@ -902,11 +902,16 @@ textarea {
     }
     
     .flashcard {
-        height: 300px;
+        height: 320px; /* Slightly taller for more text space */
     }
     
     .flashcard h2 {
-        font-size: 24px;
+        font-size: 20px; /* Smaller text on mobile */
+        max-height: 180px; /* Less space for text, more for buttons */
+    }
+    
+    .flashcard-front, .flashcard-back {
+        padding: 25px; /* Less padding on mobile */
     }
     
     .controls {
@@ -928,18 +933,54 @@ textarea {
         justify-content: center;
     }
     
+    /* NEW: More compact difficulty buttons on mobile */
     .difficulty-buttons {
-        flex-direction: column;
+        flex-direction: row; /* Keep them in a row */
         width: 100%;
+        gap: 8px; /* Smaller gap */
+        margin-top: 15px; /* Less top margin */
     }
     
     .difficulty-btn {
-        width: 100%;
-        justify-content: center;
+        flex: 1; /* Equal width */
+        padding: 10px 8px; /* Much smaller padding */
+        font-size: 13px; /* Smaller font */
+        min-width: auto; /* Remove min-width constraint */
+        gap: 4px; /* Smaller gap between icon and text */
+    }
+    
+    .difficulty-btn i {
+        font-size: 14px; /* Smaller icons */
+    }
+    
+    .hint {
+        font-size: 12px;
+        margin-top: 10px;
     }
     
     .modal-content {
         margin: 20px;
+    }
+}
+
+/* iPhone specific - extra small screens */
+@media (max-width: 390px) {
+    .flashcard {
+        height: 300px;
+    }
+    
+    .flashcard h2 {
+        font-size: 18px;
+        max-height: 160px;
+    }
+    
+    .difficulty-btn {
+        padding: 8px 4px;
+        font-size: 12px;
+    }
+    
+    .difficulty-btn i {
+        font-size: 12px;
     }
 }
 
