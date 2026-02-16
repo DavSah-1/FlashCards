@@ -1,0 +1,238 @@
+{
+  "id" : "0",
+  "term_count" : "37",
+  "sample" : "0",
+  "modified_date" : "1760357894.411953",
+  "version" : "0",
+  "terms" : [
+    {
+      "term" : "Define tidal volume",
+      "id" : "8668537140",
+      "definition" : "Volume of air inspired and expired per normal breath (ml)",
+      "version" : "1"
+    },
+    {
+      "term" : "Define frequency",
+      "id" : "8668537143",
+      "definition" : "Breaths taken per minute",
+      "version" : "1"
+    },
+    {
+      "term" : "Equation linking tidal freq and minute ventilation",
+      "id" : "8668537146",
+      "definition" : "Minute ventilation (l\/min) = tidal volume (ml) x freq (b\/min)",
+      "version" : "1"
+    },
+    {
+      "term" : "Average values at rest sub max , max",
+      "id" : "8668537148",
+      "definition" : "Rest: f-15 x tv-500ml = 7.5l\/m\nSub max: 20x 600=12l\/min\nMax: 70 x 3l =210 L",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the pathway of air",
+      "id" : "8668537150",
+      "definition" : "Nose and mouth\nPharynx \nLarynx \nTrachea \nBronchi\nBronchioles \nAlveoli",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the mechanics of breathing at rest",
+      "id" : "8668537152",
+      "definition" : "Inspiration:\nExternal intercostals contract causing teh ribs to move up and out\nDiaphragm contracts and flattens \nThese increases the volume of the thoracic cavity \nIncreased volume causes decreased pressure inside the lungs \nThis forces air into the lungs due to the pressure gradient between inside the lugs and in the atmosphere (higher)\nAir is sucked in to create an equilibrium \n\nExpiration: \nExternal intercostals relax causing ribs to move in and downwards\nDiaphragm relaxes and domes\nThese decrease volume of lungs\/thoracic cavity \nDecreased volume causes increased pressure inside lungs \nThis forces air out due to pressure graduent between inside lungs and in atmosphere (lower)\nAir is forced out to create an equilibrium",
+      "version" : "1"
+    },
+    {
+      "term" : ",mechanics of breathing during exercise",
+      "id" : "8668537154",
+      "definition" : "Inspiration:\n-The external intercostals contract with greater force than at rest, pulling the ribcage and lungs upwards and outwards further than at rest, alongside the greater forcefully contracting and flattening diaphragm. \n-These muscles contracting with greater force increase the volume of the lungs and the thoracic cavity more than at rest. \n-The sternocleidomastoid is recruited to aid the thoracic cavity’s volume increase with greater force\/at a faster rate. \n-This increase in volume decreases the pressure in the lungs more than at rest, which sucks more air in at a faster rate than at rest to create equilibrium. \n\nExpiration: becomes active process\nDiaphragm and external intercostals relax causing\nRectus abdominus contracts to help pul diaphragm up with greater force than at rest \nLarger increase in pressure inside lungs than at rest \nLarger pressure gradient \nMore air than at rest is forced out of the lungs to create an equilibrium",
+      "version" : "1"
+    },
+    {
+      "term" : "Name 5 spirometry characteristics",
+      "id" : "8668537157",
+      "definition" : "Tidal volume\nInspiratory\/expiratory reserve volume \nVital capacity \nTotal lung capacity \nResidual volume \nFunctional residual capacity",
+      "version" : "1"
+    },
+    {
+      "term" : "Define tidal volume",
+      "id" : "8668537159",
+      "definition" : "Amount of air inspired or expired per breath",
+      "version" : "1"
+    },
+    {
+      "term" : "Define breathing rate",
+      "id" : "8668537162",
+      "definition" : "Number of inspirations \/ breaths per minute",
+      "version" : "1"
+    },
+    {
+      "term" : "Define minute ventilation",
+      "id" : "8668537164",
+      "definition" : "Volume of air inspired\/expired per minute  \nMV=TV x f",
+      "version" : "1"
+    },
+    {
+      "term" : "Values of TV, BR, MV",
+      "id" : "8668537166",
+      "definition" : "TV: 500ml\nBR: 12-15 breaths \nMV: 7,500ml\/min",
+      "version" : "1"
+    },
+    {
+      "term" : "How does tidal volume change during exercise and why",
+      "id" : "8668537168",
+      "definition" : "Increases in proportion to exercise intensity at sub-max intensity (up to 3L) as more air is required to keep up with increased respiration rate and subsequent increased demand for 02 \nReaches a plateau during sub-mac because high BR doesn’t allow enough time\/effort for maximal inspiration\/expirations\nPeaks and troughs get taller and get closer and closer together",
+      "version" : "1"
+    },
+    {
+      "term" : "How does exercise affect breathing rate",
+      "id" : "8668537170",
+      "definition" : "Increases in proportion to exercise until max breaths per minute is reached (50-60br\/min)\nPlateaus during sub-mac when supply of 02 reaches demand of working muscles",
+      "version" : "1"
+    },
+    {
+      "term" : "Effect of exercise on minute volume",
+      "id" : "8668537172",
+      "definition" : "BR and TV both increase to meet the increase in demand of o2 supply to working muscles, resulting in minute volume increasing becasue TV x BR = MV which means MV is directly proportional to both TV and BR.",
+      "version" : "1"
+    },
+    {
+      "term" : "Define internal gaseous exchange",
+      "id" : "8668537174",
+      "definition" : "Exchange of gases at the muscles, between the muscle tissue and capillaires.",
+      "version" : "1"
+    },
+    {
+      "term" : "Define external gaseous exchange",
+      "id" : "8668537176",
+      "definition" : "Exchange of gases in the lungs, between alveoli and capillaries",
+      "version" : "1"
+    },
+    {
+      "term" : "Explain the process of gaseous exchange at the alveoli",
+      "id" : "8668537177",
+      "definition" : "O2:\nPartial pressure of o2 in alveoli is high \n“” in capillaries is low \nCauses diffusion gradient \nResults in o2 diffusing from high (in alveoli) to low (in capillaries) concentration across the alveoli cell membrane\nAssociation occurs when o2 molecules bind to the haemoglobin on red blood cells until they are highly saturated \nAfter this, equilibrium is reached when the partial pressure of o2 in alveoli and capillaries are equal \nO2 is transported through the bloodstream to muscles for respiration \n\nCO2:\nPco2 in capillaries is high\nPco2 in alveoli is low\nCauses diffusion gradient Results\nResults in co2 diffusing from high (capillaries ) to low (alveoli)across alveolus cell membrane Association occurs\nAfter diffusion, equilibrium is reached due to equal Pco2 in alveoli and capillaries \nCO2 is expired as a waste product",
+      "version" : "1"
+    },
+    {
+      "term" : "Explain the process of gaseous exchange at the muscles cells",
+      "id" : "8668537180",
+      "definition" : "O2:\nPartial pressure of oxygen in the capillaries is high \nPartial pressure of oxygen in muscles is low \nThis creates a diffusion gradient \nThis causes diffusion of oxygen from high in the capillaries to low concentration in the muscles\nOxygen dissociates from haemoglobin on red blood cells and diffuses to associate to myoglobin in muscles to allow for respiration \nHaemoglobin is now unsaturated and ready for more association when it circulate back to the lungs in the bloodstream\nAfter diffusion equilibrium is reached as the partial pressure of oxygen in the capillaries and muscles are equal.\n\nCO2:\nPartial pressure of CO2 in muscles is high and low in capillaries\nThis creates a diffusion gradient causing diffusion of carbon dioxide from high to low concentration from muscles to capillaries\nThis leads to equilibrium being reached as partial pressure of carbon dioxide is equal in muscles and capillaries\nDiffusion of carbon dioxide occurs in order to remove carbon dioxide is a waste product of aerobic respiration",
+      "version" : "1"
+    },
+    {
+      "term" : "What is the effect of exercise on gas exchange?",
+      "id" : "8668537182",
+      "definition" : "External:\nDuring exercise muscles use more oxygen due to increased respiration rates to supply the body with energy for exercise by breaking down glucose\nIt produces much more carbon dioxide as well as a waste product of this increased respiration rate \nTherefore, the partial pressure of oxygen Returning to the alveoli in the capillaries is much lower than at rest and the partial pressure of carbon dioxide in the capillaries is much higher than at rest\nThis causes a steeper concentration \/diffusion gradient which causes a faster rate of diffusion of oxygen from the alveoli into the capillaries and carbon dioxide from the capillaries into the alveoli\nWhich overall causes an increased rate of gases exchange\n\nInternal: \nMore oxygen is required in the muscle tissue for increased respiration rates to sustain exercise \nIncrease in body temperature and increased acidity increases the rate of oxygen dissociation which increases the rate of gases exchange between the capillaries and the muscle tissue because oxygen can detach from haemoglobin quicker and therefore diffuse into the muscle tissue quicker\nAlso a decrease in the partial pressure of oxygen within the muscle caused by increased respiration as well as an increase in the partial pressure of carbon oxide in the capillaries caused by increased respiration steep in the diffusion gradient causing diffusion to occur quicker which causes an rate of gases exchange.",
+      "version" : "1"
+    },
+    {
+      "term" : "Factors assisting the speed of diffusion from the lungs into the bloodstream",
+      "id" : "8668537184",
+      "definition" : "Large surface of alveoli\nStrong affinity between haemoglobin and oxygen \nAlveoli respiratory membrane is very thin \nAlveoli and capillary respiratory membranes are permeable \nLarge surface area of alveoli \nConcentration gradient\nLayer of moisture between alveoli and capillary enhances uptake of oxygen leading to more chance of association\nSlow velocity of blood through capillaries \nLots of capillaries in lungs, large surface area for diffusion  (capillarisation)",
+      "version" : "1"
+    },
+    {
+      "term" : "Factors existing the speed of diffusion from muscles to the blood stream",
+      "id" : "8668537186",
+      "definition" : "Myoglobin has a high affinity for oxygen\nHigh concentration gradient \nSlow velocity of blood through capillaries \nCapillary wall one cell thick - short distance to travel\nSemi permeable capillary walls \nLarge number of capillaries near muscles -high surface area for diffusion",
+      "version" : "1"
+    },
+    {
+      "term" : "What are the two sections of the respiratory control centre? (RCC)",
+      "id" : "8668537188",
+      "definition" : "Inspiratory and expiratory Centre",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the control of breathing at rest",
+      "id" : "8668537190",
+      "definition" : "The inspiration Centre sends an impulses to the diaphragm via the front nerve and intercostal muscles by the intercostal nerve causing them to contract\nThese muscles increase the volume of the lungs by pulling them up and outwards increasing the volume of the thoracic cavity causing a decrease in pressure and a subsequent pressure gradient which causes air to be sucked into the lungs to create an equilibrium between the pressure inside the lungs and in the atmosphere \nAfter two seconds, the inspiratory stopped sending these nerve impulses to respiratory muscles and the external intercostal and diaphragm relax \nThis decreases the volume of the lungs thus increasing pressure and forcing air out of the lungs due to the pressure gradient in order to maintain equilibrium between the lung pressure and the atmospheric pressure \nThe expiratory Centre is inactive during rest",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the control of breathing during exercise",
+      "id" : "8668537192",
+      "definition" : "During exercise breaths become more rapid and deeper \nChemoreceptors detect an increase in blood acidity Thermoreceptors detect an increase in body temperature proprioceptors detect an increase in movement and they all inform the inspiratory centre to increase nerve stimulation to the respiratory muscles (via the phrenic and intercostal nerve)\nThe inspiration Centre stimulates the pectoralis minor and sternocleidomastoid muscles to assist with inspiration\nBaroreceptors inform the expiratory Centre on the extent of lung inflation, when this becomes too high the expiratory Centre becomes active and stimulates the intercostal muscles and rectus abdominous to assist in expiration.",
+      "version" : "1"
+    },
+    {
+      "term" : "Where are chemo receptors found and what do they do?",
+      "id" : "8668537194",
+      "definition" : "They found in the aorta and carotid arteries and they detect blood acidity",
+      "version" : "1"
+    },
+    {
+      "term" : "What are Thermo receptors? Where are they found? And what do they do?",
+      "id" : "8668537196",
+      "definition" : "Generally found in the blood they detect body temperature",
+      "version" : "1"
+    },
+    {
+      "term" : "What do proprioceptor do and where are they found?",
+      "id" : "8668537198",
+      "definition" : "Found in muscles and joints and detect movement",
+      "version" : "1"
+    },
+    {
+      "term" : "What do baroreceptors do? And where are they found?",
+      "id" : "8668537199",
+      "definition" : "Found in blood vessels and lung tissues and detect blood pressure and the stretch of lungs during inflation",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the long-term effects of training on lung function",
+      "id" : "8668537201",
+      "definition" : "Increases in lung volumes:\nTotal longer capacity remain remains unchanged\nTitle volume increases slightly during high intensity exercise \nVital capacity increases slightly by taking a little bit away from residual volume \nThese slight increases occur due to stronger respiratory muscle muscles \/hypertrophy due to training\n\nImprove transport of respiratory gases :\nProlonged training causes more total blood volume due to an increase in total blood plasma  = lower blood viscosity = lower blood pressure\nMore red blood cells  = more haemoglobin\nThis causes increased rate of oxygen delivery to muscles and removal of carbon dioxide therefore increased gas exchange can occur\n\nMore efficient gaseous exchange at the alveoli and muscle tissue:\nIncrease capillarisation in muscles and lungs = great opportunity for gases exchanged due to larger surface area\nBetter blood flow to lungs and an increase in minute ventilation\nResults in increased external respiration\n\nImproved uptake of oxygen by muscles:\nImprovement in maximum oxygen uptake (VO2 max)\nMore myoglobin in muscles\nLarger a-vo2 difference",
+      "version" : "1"
+    },
+    {
+      "term" : "How is oxygen transported in the blood?",
+      "id" : "8668537204",
+      "definition" : "97% by haemoglobin through association\n3% dissolved in blood plasma",
+      "version" : "1"
+    },
+    {
+      "term" : "Define haemoglobin",
+      "id" : "8668537205",
+      "definition" : "Iron rich protein in red blood cells which can chemically combine with four oxygen molecules",
+      "version" : "1"
+    },
+    {
+      "term" : "Define oxyhaemoglobin",
+      "id" : "8668537207",
+      "definition" : "Oxygen combined with haemoglobin after association",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe haemoglobin saturation in the Venus blood leaving the muscle",
+      "id" : "8668537209",
+      "definition" : "Low haemoglobin saturation because a high percentage of oxygen has dissociated and refused into muscle tissue",
+      "version" : "1"
+    },
+    {
+      "term" : "Define the oxyhaemoglobin dissociation curve",
+      "id" : "8668537211",
+      "definition" : "Shows the relationship between the partial pressure of oxygen and the percentage saturation of haemoglobin",
+      "version" : "1"
+    },
+    {
+      "term" : "Suggest where points a,b and c would be in the body and explain why",
+      "id" : "8668537212",
+      "imgF" : "ques_8.jpg",
+      "definition" : "A: found in the muscle tissue at rest\nB: found in the muscle tissue during exercise because the partial pressure of oxygen decreases the haemoglobin more readily dissociate with oxygen releasing it to the muscle tissue\nC: found in the lungs during gaseous exchange because at the lungs the partial pressure of oxygen is very high so blood leaving the lungs is almost 100% saturated",
+      "version" : "1"
+    },
+    {
+      "term" : "What is the Bohr shift?",
+      "id" : "8668537215",
+      "definition" : "The shift of the oxyhaemoglobin dissociation curve to the right because during exercise the dissociation of oxygen from haemoglobin occurs more readily. This is due to more carbon dioxide and an increase in lactic acid levels so blood increases during exercise causing a decreased haemoglobin affinity for oxygen as well as increased body temperature which causes oxygen to dissociate quicker when blood is warmer.",
+      "version" : "1"
+    }
+  ],
+  "source_type" : "",
+  "created_by" : "",
+  "lang_definitions" : "en-US",
+  "created_date" : "1760357894.411953",
+  "title" : "Respiratory system",
+  "lang_terms" : "en-US"
+}

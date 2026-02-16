@@ -1,0 +1,69 @@
+{
+  "id" : "0",
+  "term_count" : "9",
+  "sample" : "0",
+  "modified_date" : "1765453717.542140",
+  "version" : "0",
+  "terms" : [
+    {
+      "term" : "Quelle année était la loi sur le mariage pour tous?",
+      "id" : "3573341878",
+      "definition" : "18 mai 2013",
+      "version" : "1"
+    },
+    {
+      "term" : "La France est devenue le ?e pays européen à autoriser le mariage homosexuel. \nQu’est que cela suggère?",
+      "id" : "3573341881",
+      "definition" : "Neuvième. Cela suggère que la France a été tardive à soutenir le mariage homosexuel, puisque la loi a été instaurée 12 ans après le premier pays, les Pays-Bas.",
+      "version" : "1"
+    },
+    {
+      "term" : "How many married couples were gay ones in 2014?",
+      "id" : "3573341883",
+      "definition" : "Les couples de meme sexe ont représente 4% du total des unions.",
+      "version" : "1"
+    },
+    {
+      "term" : "How has the popularity of marriage changed",
+      "id" : "3573341884",
+      "definition" : "En général, l’institution du mariage est en déclin, étant donné que le taux de nuptialité, qui était de 8,1 en 1972, a rapidement diminué pour atteindre 3,5 en 2014. Cette tendance n’a cessé de se poursuivre depuis.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the growing popularity of le PACS and add a stat",
+      "id" : "3573341886",
+      "definition" : "Depuis le début des années 2000, le pacte civil de solidarité (PACS) s’est progressivement imposé comme une alternative crédible au mariage en France. En 2010, le nombre de PACS conclus se rapprochait fortement de celui des mariages célébrés, y compris parmi les couples hétérosexuels.",
+      "version" : "1"
+    },
+    {
+      "term" : "DIVORCE: \nQuelles sont les principales caractéristiques du phénomène du divorce en France aujourd’hui ? (+Main reason for divorce?)",
+      "id" : "3573341887",
+      "definition" : "-La France connaît un niveau élevé de divorces, avec plusieurs centaines de ruptures officiellement prononcées chaque jour. Dans une large majorité des cas, l’initiative de la procédure de divorce émane des femmes. La principale cause de divorce en France est l'infidélité ou les violences conjugales.\n-50% de mariages terminaient en divorce.\n-334 divorces sont prononces chaque jour\n-dans trois cas sur quatre, le demandeur du divorce est la femme\n- La principale cause de divorce en France est l'infidélité ou les violences conjugales.",
+      "version" : "1"
+    },
+    {
+      "term" : "Divorce impact on environment",
+      "id" : "3573341889",
+      "definition" : "La séparation conjugale entraîne fréquemment la nécessité de créer un nouveau foyer, ce qui implique des conséquences non négligeables sur le plan environnemental. En effet, une personne vivant seule présente un niveau de consommation sensiblement supérieur à celui d’un individu vivant en couple.",
+      "version" : "1"
+    },
+    {
+      "term" : "Why do adults return to live with their parents",
+      "id" : "3573341890",
+      "definition" : "Selon l’Insee, 415,000 adultes français vivent chez leurs parents car ils ont tombes malades, soit parce qu’ils ont perdu leur emploi ou a cause de leur divorce.",
+      "version" : "1"
+    },
+    {
+      "term" : "Single ppl",
+      "id" : "3573341892",
+      "definition" : "Le nombre de célibataires en France: c’est un chiffre en constante augmentation. De plus en plus de célibataires se lancent dans l’aventure des sites de rencontres (ces derniers ne cessent pas se multiplier.",
+      "version" : "1"
+    }
+  ],
+  "source_type" : "",
+  "created_by" : "",
+  "lang_definitions" : "en-US",
+  "created_date" : "1765453717.542140",
+  "title" : "French - La famille en voie de changement",
+  "lang_terms" : "en-US"
+}

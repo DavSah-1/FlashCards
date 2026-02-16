@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <title>Flashcards Pro - Select Subject</title>
+    
+    <!-- PWA Configuration -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Flashcards">
+    <link rel="apple-touch-icon" href="icons/icon-192.png">
+    <meta name="theme-color" content="#4b6cb7">
+    
+    <!-- Styles & Icons -->
+    <link rel="stylesheet" href="style-ipad.css">
+    <link rel="stylesheet" href="fonts/fontawesome.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-layer-group"></i> Flashcard Master</h1>
+            <p class="subtitle">Choose a subject to study</p>
+        </header>
+
+        <div class="main-content">
+            <!-- Subject Grid -->
+            <div class="subjects-grid" id="subjectsGrid">
+                <!-- Subjects will be loaded here -->
+            </div>
+
+            <!-- Create New Subject Button -->
+            <div class="create-subject-section">
+                <button id="createSubjectBtn" class="create-subject-btn">
+                    <i class="fas fa-plus-circle"></i> Create New Subject
+                </button>
+            </div>
+
+            <!-- Loading Message -->
+            <div id="loadingMessage" class="loading-message" style="display: none;">
+                <i class="fas fa-spinner fa-spin"></i> Loading subjects...
+            </div>
+
+            <!-- Empty State -->
+            <div id="emptyState" class="empty-state" style="display: none;">
+                <i class="fas fa-book-open"></i>
+                <h3>No subjects yet</h3>
+                <p>Create your first subject to get started!</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Create Subject Modal -->
+    <div id="createSubjectModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2><i class="fas fa-plus"></i> Create New Subject</h2>
+                <button class="modal-close" id="closeCreateModal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label for="subjectNameInput">Subject Name</label>
+                    <input type="text" id="subjectNameInput" placeholder="e.g., Biology, Spanish, History..." maxlength="50">
+                    <span class="char-count" id="subjectNameChar">0/50</span>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button id="cancelCreateBtn" class="btn-secondary">Cancel</button>
+                <button id="confirmCreateBtn" class="btn-primary">Create Subject</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="embedded-subjects-data.js"></script>
+    <script src="subjects-manager-ipad.js"></script>
+</body>
+</html>

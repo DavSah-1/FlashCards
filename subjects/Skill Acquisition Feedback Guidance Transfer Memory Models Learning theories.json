@@ -1,0 +1,555 @@
+{
+  "id" : "0",
+  "term_count" : "90",
+  "sample" : "0",
+  "modified_date" : "1756820151.144425",
+  "version" : "0",
+  "terms" : [
+    {
+      "term" : "Describe 7 characteristics of a Cognitive Learner",
+      "id" : "12206262825",
+      "definition" : "- makes many mistakes\n- uses trial and error\n-can’t use intrinsic feedback \n-movements lack fluency, rhythm and are jerky\n-needs conscious thought\n-relies on extrinsic feedback \n-creates mental picture through demonstration or rehearsal",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe 6 characteristics of the Associative stage:",
+      "id" : "12206262828",
+      "definition" : "-less mistakes made\n-can use KR and KP\n-matches performance to mental model\n-motor programmes begin to form\n-movements become more fluent, less jerky, smoother\n-uses intrinsic (kinaesthetic) feedback + extrinsic",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the 6 characteristics of the autonomous stage",
+      "id" : "12206262830",
+      "definition" : "-Skills are automatic, fluent, consistent, well-grooved, accurate\n-motor programmes are fully formed\n-requires little conscious thought\n-spare attentional capacity to focus on strategic play, adapt and refine.\n-performance habitual ad overlearned\n-effectively use intrinsic feedback to self-correct",
+      "version" : "1"
+    },
+    {
+      "term" : "4 characteristics of a simple skill",
+      "id" : "12206262831",
+      "definition" : "-little decision-making\n-little conscious thought to perform\n-little sub-routines\n-can be taught whole skill in a repetitive manner",
+      "version" : "1"
+    },
+    {
+      "term" : "Complex skill",
+      "id" : "12206262833",
+      "definition" : "-involves lots of decisions making\n-more information processing\n-many subroutines\n-must be broken down to teach skill (hard to learn)",
+      "version" : "1"
+    },
+    {
+      "term" : "Open skill",
+      "id" : "12206262834",
+      "definition" : "Affected by environment\nExternally paced\nPerceptual skills need to be adjusted to match situation",
+      "version" : "1"
+    },
+    {
+      "term" : "Closed skill",
+      "id" : "12206262835",
+      "definition" : "Not affected by environment\nSelf paced\nHabitual movement s\nStable and predictable",
+      "version" : "1"
+    },
+    {
+      "term" : "Self paced",
+      "id" : "12206262836",
+      "definition" : "Performer controls the rate of activity \nPerformer decides when to start \nTend to be closed skills\nPerformer = proactive",
+      "version" : "1"
+    },
+    {
+      "term" : "Externally paced",
+      "id" : "12206262838",
+      "definition" : "Rate of activity controlled by external factors\nPerformer reacts to a stimulus \nTend to be open skills",
+      "version" : "1"
+    },
+    {
+      "term" : "Gross",
+      "id" : "12206262839",
+      "definition" : "Large muscle group \nLarge movement\nNot accurate\/. Precise\nFundamental skills",
+      "version" : "1"
+    },
+    {
+      "term" : "Fine",
+      "id" : "12206262840",
+      "definition" : "Small movements\nSmall muscle groups\nIntricate and precise\nCoordination",
+      "version" : "1"
+    },
+    {
+      "term" : "Discrete",
+      "id" : "12206262841",
+      "definition" : "Well defined beginning and end \nBride in nature \nHard to break down as single skill",
+      "version" : "1"
+    },
+    {
+      "term" : "Serial",
+      "id" : "12206262842",
+      "definition" : "Number of discrete skills put together in a sequence\nOrder of elements important\nFirst movement triggers next one",
+      "version" : "1"
+    },
+    {
+      "term" : "Continuous",
+      "id" : "12206262843",
+      "definition" : "No obvious beginning and end\nActivity is ongoing - skill repeated as a set pattern\nEnd of one movement is beginning of next",
+      "version" : "1"
+    },
+    {
+      "term" : "High organisation",
+      "id" : "12206262845",
+      "definition" : "Skills have elements\nDifficult to separate elements",
+      "version" : "1"
+    },
+    {
+      "term" : "Low org",
+      "id" : "12206262846",
+      "definition" : "Skill can be split up into sub routines\nElements are easily identified as separate movements.",
+      "version" : "1"
+    },
+    {
+      "term" : "4 methods of practice",
+      "id" : "12206262847",
+      "definition" : "-part\n-whole\n-whole part whole\n-progressive part",
+      "version" : "1"
+    },
+    {
+      "term" : "4 types of practice",
+      "id" : "12206262848",
+      "definition" : "-massed\n-distributed\n-fixed\n-varied",
+      "version" : "1"
+    },
+    {
+      "term" : "What is part practice",
+      "id" : "12206262849",
+      "definition" : "Breaking down a movement into individual subroutines \n+)doesn’t overload performer with info\n-) reduces kinaesthetic awareness\n+) useful for beginners and complex skills",
+      "version" : "1"
+    },
+    {
+      "term" : "What is whole practice",
+      "id" : "12206262850",
+      "definition" : "Skill is learned in its entirety \n+) useful for simple continuous skills\n-) hard to learn complex skills this way\n+) promotes kinaesthetic awareness",
+      "version" : "1"
+    },
+    {
+      "term" : "What is whole part whole",
+      "id" : "12206262851",
+      "definition" : "Practicing skill in its entirety and then breaking the skill down into its sub routines, before completing the skill as a whole again.\n+) enable some kinaesthetic feel.\n+) useful for complex skills which can be clearly separated into individual sub routines.\n-) less kinaesthetic feel the longer spent using this method.\n-) time consuming",
+      "version" : "1"
+    },
+    {
+      "term" : "Progressive part practice",
+      "id" : "12206262853",
+      "definition" : "Learning the individual sub routines in chronological order and then joining these together in order. Eventually the skill is learned in its entirety.\n+) Aids correct time of each sub routine.\n+) enables understanding of how the sub routines interact\n-) disjointed feel to the skill\n-) can make the skill flow less effectively",
+      "version" : "1"
+    },
+    {
+      "term" : "What is massed practice?",
+      "id" : "12206262854",
+      "definition" : "Continuous practice of simple skills without breaks.\n+) useful for those with high fitness and motivation levels\n-) can become repetitive and tedious\n-) should not be used during dangerous skills",
+      "version" : "1"
+    },
+    {
+      "term" : "What is distributed practice?",
+      "id" : "12206262855",
+      "definition" : "Practice is interrupted with breaks for discussion and recovery\n+) useful for those with low fitness and motivation\n+) useful for complex skills which would benefit from discussion\n-) can be time-consuming\n+) allows for recovery between reps so performance can be substantiated\n-) not for discrete skills",
+      "version" : "1"
+    },
+    {
+      "term" : "What is fixed practice",
+      "id" : "12206262856",
+      "definition" : "Continuous practice of a specific skill\n-) does not take into account any changes in the performers, environment or situation\n+) enables a good level of skill rehearsal\n+) useful for closed skills\n-) can be tedious\n-) may not improve skills when performed in an open environment",
+      "version" : "1"
+    },
+    {
+      "term" : "What is varied practice?",
+      "id" : "12206262857",
+      "definition" : "Practising a skill in different situations\n+) environmental situation can be changed by the coach, preparing the performer for various match conditions\n+) useful for open skills and games players specifically\n-) time-consuming\n+) improve selective attention\n-) often require requires learning using a fixed method first so not fully comprehensive",
+      "version" : "1"
+    },
+    {
+      "term" : "Define positive transfer",
+      "id" : "12206262858",
+      "definition" : "When knowledge of how to do one skill helps us learn a new skill.\nEg. Knowing how to do a serving tennis helps us learn how to smash in badminton e.g.golf swing – batting in cricket, drive in cricket – pass in hockey.\nE.g. Javelin throw – spike in volleyball ( over arm )",
+      "version" : "1"
+    },
+    {
+      "term" : "Define negative transfer",
+      "id" : "12206262860",
+      "definition" : "When knowing how to do one skill hinders the learning of a new skill\nEg. Cricket bowl – shotput throw (straight arm)\nEg. Shot in basketball – netball shot ( overdo it – must stay where you are)\nEg. Receiving pass in netball – receiving pass in basketball ( standstill )\nEg. Forehand in squash – four hand tennis ( loose wrist.)\nEg. Rowing arm action – breaststroke arm action (sweeping pull.)",
+      "version" : "1"
+    },
+    {
+      "term" : "Define bilateral transfer",
+      "id" : "12206262861",
+      "definition" : "Knowing how to do a skill with one limb and transferring knowledge to be able to do the same School with the other limb\nEg. Football pass right foot and left foot.\nE.g. tennis for hand right and left arm \nE.g. catching right and left hand",
+      "version" : "1"
+    },
+    {
+      "term" : "Define retroactive transfer",
+      "id" : "12206262862",
+      "definition" : "A skill that is learnt now has an influence on a skill that was learnt in the past\nE.g. Javelin past – spike volleyball now – > positive influence on throwing action in javelin\nE.g. tennis serve – badminton smash now –> positive influence on tennis serve",
+      "version" : "1"
+    },
+    {
+      "term" : "Proactive transfer",
+      "id" : "12206262863",
+      "definition" : "The knowledge of a skill learnt in the past influences the learning of a new skill now.\nEg. Learning a tennis serve in the past helps you learn a badminton smash now.",
+      "version" : "1"
+    },
+    {
+      "term" : "What are 5 ways to optimise positive transfer",
+      "id" : "12206262864",
+      "definition" : "-highlight similarities: connect both skills to enhance understanding \n-overlearn skills: thorough mastery of skill 1 ensures better transfer\n-realistic practice: activities mimic real life scenarios\n-progressive learning: skills are taught in stages to avoid confusion \n-provides positive feedback: reinforces correct performance and transfer",
+      "version" : "1"
+    },
+    {
+      "term" : "Define verbal guidance",
+      "id" : "12206262866",
+      "definition" : "Description\/explanation often used alongside visual guidance for cognitive learner\/beginners. On its own for autonomous performers (eg. Tactics)",
+      "version" : "1"
+    },
+    {
+      "term" : "3 positives of verbal guidance",
+      "id" : "12206262867",
+      "definition" : "- increases understanding (helps gauging clear idea of what needs to be done)\n- holds attention\n- improves motivation (through q+a or engagement)",
+      "version" : "1"
+    },
+    {
+      "term" : "4 Negatives of verbal guidance",
+      "id" : "12206262868",
+      "definition" : "-loses motivation if talk for too long\/waffle \n-some skills can’t just be explained to be fully understood \n-risk of information overload \n-interpretation error risk",
+      "version" : "1"
+    },
+    {
+      "term" : "Define visual guidance",
+      "id" : "12206262869",
+      "definition" : "Demonstration to provide performer with clear mental image",
+      "version" : "1"
+    },
+    {
+      "term" : "4 Positives of visual guidance",
+      "id" : "12206262870",
+      "definition" : "- allows mental image to form of\n- encourages observational learning \n- beneficial for beginners to understand new concepts better\n-versatile \/ easy for coach eg. Video, in person demo etc\n- skill can be easily shown in different stages eg. Isolation to game situation",
+      "version" : "1"
+    },
+    {
+      "term" : "Negatives of visual",
+      "id" : "12206262872",
+      "definition" : "- potential info overload so must highlight important aspects of performance \n-demonstration may be incorrect\n-Coach may be incapable of demonstrating skill\n-Demonstration might be too quick to get a proper understanding",
+      "version" : "1"
+    },
+    {
+      "term" : "Define manual guidance",
+      "id" : "12206262873",
+      "definition" : "Physical support - physically manoeuvering the performers, body with your hands",
+      "version" : "1"
+    },
+    {
+      "term" : "Define mechanical guidance",
+      "id" : "12206262874",
+      "definition" : "Equipment support - physical support through harnesses",
+      "version" : "1"
+    },
+    {
+      "term" : "Positives of manual\/mechanical guidance",
+      "id" : "12206262875",
+      "definition" : "Reduces danger and fear\/increased safety\nGain kinaesthetic feel for the movement in a safe way \nIncreases confidence in performance, especially if cognitive learner \nSupports part practice methods",
+      "version" : "1"
+    },
+    {
+      "term" : "Negatives of mechanical and manual guidance",
+      "id" : "12206262876",
+      "definition" : "Become too dependent on it\nFalse kinaesthesis risk \nReduction in learners control",
+      "version" : "1"
+    },
+    {
+      "term" : "Define positive feedback",
+      "id" : "12206262877",
+      "definition" : "Information about successes of the performance. Can be intrinsic or extrinsic for example, nice shot.",
+      "version" : "1"
+    },
+    {
+      "term" : "Positives of positive feedback",
+      "id" : "12206262878",
+      "definition" : "Strengthens stimulus response bond\nReinforces skill learning \nImproves motivation \nBuilds confidence in cognitive stage",
+      "version" : "1"
+    },
+    {
+      "term" : "Negatives Of positive feedback",
+      "id" : "12206262880",
+      "definition" : "Potentially Reinforces wrong aspect of performance\nNot always helpful if not specific \nDoesn’t tell you how to improve \/what to do next",
+      "version" : "1"
+    },
+    {
+      "term" : "Define negative feedback",
+      "id" : "12206262881",
+      "definition" : "Information about the unsuccessful parts of the performance. Can be intrinsic or extrinsic. For example, your turns were sloppy.",
+      "version" : "1"
+    },
+    {
+      "term" : "Advantages of negative feedback",
+      "id" : "12206262882",
+      "definition" : "Can be motivational for some performers who need criticism to improve\nHighlights areas of improvement \nSuited to auto learners who can handle criticism and require it to improve as most things are already done well \nAllows for refinement and fine detail \nPrevent prevents dry reduction as it keeps setting new goals for performer",
+      "version" : "1"
+    },
+    {
+      "term" : "Disadvantages of negative",
+      "id" : "12206262883",
+      "definition" : "Can be Demotivational\nReduces confidence \nDoesn’t tell them the full picture as excludes what they did correctly",
+      "version" : "1"
+    },
+    {
+      "term" : "Define knowledge of performance",
+      "id" : "12206262884",
+      "definition" : "Information about the quality of the performance and the technique",
+      "version" : "1"
+    },
+    {
+      "term" : "Advantages of knowledge of performance",
+      "id" : "12206262885",
+      "definition" : "Allows for a kinaesthetic sense\nWhen against strong opposition allows to focus on positives whilst losing and take something useful from the loss \nFocuses on performance over outcome which means the performers in control \nStimulates areas of improvement \nEssential for school learning and transitioning into autonomous stage \nImproves motivation \nGood for closed skills \nIncrease his confidence in ability to perform a skill",
+      "version" : "1"
+    },
+    {
+      "term" : "Disadvantages of knowledge of performance",
+      "id" : "12206262886",
+      "definition" : "Useless if inaccurate \nDoesn’t consider outcome so not as useful for outcome goals achievement \nCan cause overload",
+      "version" : "1"
+    },
+    {
+      "term" : "Define knowledge of results",
+      "id" : "12206262887",
+      "definition" : "Information about the outcome of the performance (terminal)",
+      "version" : "1"
+    },
+    {
+      "term" : "Advantages of KoR",
+      "id" : "12206262888",
+      "definition" : "Useful for beginners (did the ball go in the hoop)\nUseful for experts (outcome goal achievements)\nMotivational (if results are positive)\nSatisfaction ((I can tell im getting better because im winning more) \nMeasurable \/ objective",
+      "version" : "1"
+    },
+    {
+      "term" : "Disadvantages KoR",
+      "id" : "12206262889",
+      "definition" : "Demotivational if results aren’t positive \nLacks technical; detail so hard to improve based on it \nUnrepresentative eg. If performer played well but lost",
+      "version" : "1"
+    },
+    {
+      "term" : "Define intrinsic feedback",
+      "id" : "12206262890",
+      "definition" : "Information from within the performer about pro perceptions and kinaesthesia",
+      "version" : "1"
+    },
+    {
+      "term" : "Advantages of intrinsic feedback",
+      "id" : "12206262891",
+      "definition" : "Always available\nNot relying on a coach suitable for autonomous learners who rely on it to self evaluate \nAllows for self correction",
+      "version" : "1"
+    },
+    {
+      "term" : "Disadvantages intrinsic feedback",
+      "id" : "12206262892",
+      "definition" : "Cognitive learners don’t have enough experience to use it\nMight be inaccurate \nDepend depends on schema being broad enough",
+      "version" : "1"
+    },
+    {
+      "term" : "Define extrinsic feedback",
+      "id" : "12206262893",
+      "definition" : "Information from others or external sources, such as a coach or the crowd or parents or teammates",
+      "version" : "1"
+    },
+    {
+      "term" : "Advantages Of extrinsic feedback",
+      "id" : "12206262894",
+      "definition" : "Gives a different interpretation which performer couldn’t see\nCoach may be experienced \nImportant for beginners who can’t self correct yet",
+      "version" : "1"
+    },
+    {
+      "term" : "Disadvantages of extrinsic feedback",
+      "id" : "12206262895",
+      "definition" : "Harder to do concurrently\nDoesn’t provide kinaesthesis \nNot always available \nOften team based \/not specific to individual performer",
+      "version" : "1"
+    },
+    {
+      "term" : "What is operant conditioning?",
+      "id" : "12206262897",
+      "definition" : "Learning through reinforcement and punishment",
+      "version" : "1"
+    },
+    {
+      "term" : "Define and describe stimulus response bond",
+      "id" : "12206262898",
+      "definition" : "The connection between stimulus and the response that stimulus. A specific stimulus results in a specific response. It is an associationist or a connectionist theory for example seeing a netball flying at you you catch it or hearing a buzzer and diving in Swimming.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe trial and error learning",
+      "id" : "12206262899",
+      "definition" : "The process of learning how to do something by trying different methods and learning from mistakes",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe manipulating environment",
+      "id" : "12206262900",
+      "definition" : "How the coach controls the environment for example setting up practices or drills to promote learning a new skill eg using cones to promote efficient football dribbling skills, using weighted ropes to add resistance in Swimming, using a noodle for a backstroke star or a beach ball",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe shaping behaviour of the performer",
+      "id" : "12206262901",
+      "definition" : "Behaviour is modified in order to carry out the desired outcome\/correct movement",
+      "version" : "1"
+    },
+    {
+      "term" : "What is reinforcement?",
+      "id" : "12206262902",
+      "definition" : "Actions which strengthen the stimulus response bond and increase the likelihood of behaviour\/the desired response occurring. Can be both positive and negative.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe positive reinforcement",
+      "id" : "12206262903",
+      "definition" : "Satisfies are provided to the learner when they decide response occurs which strengthens the stimulus response bond and increases the likelihood of behaviour recurring. E.g. cheering when you make 15 m off the wall.",
+      "version" : "1"
+    },
+    {
+      "term" : "Define negative reinforcement",
+      "id" : "12206262904",
+      "definition" : "The removal of criticism when the desired response occurs which strengthens the stimulus response bond eg. Shouting at you continuously and then stopping shouting at you when you do 15 m underwater.",
+      "version" : "1"
+    },
+    {
+      "term" : "Define punishment",
+      "id" : "12206262905",
+      "definition" : "An unpleasant consequence in order to avoid an undecided response recurring by weakening the stimulus response bond eg. When the swimmer touches on their front at the end of a back straight length they are made to do 50 press ups to prevent them finishing illegally in the future.",
+      "version" : "1"
+    },
+    {
+      "term" : "What are the five principles of operant conditioning?",
+      "id" : "12206262906",
+      "definition" : "Stimulus response bond\nTrial and error learning \nManipulating the environment \nShaping behaviour \nPunishment and reinforcement",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe observational learning",
+      "id" : "12206262907",
+      "definition" : "Learning by observing others and imitating behaviour",
+      "version" : "1"
+    },
+    {
+      "term" : "What are the four stages involved in observational learning?",
+      "id" : "12206262908",
+      "definition" : "Attention\nRetention \nMotor production \nMotivation",
+      "version" : "1"
+    },
+    {
+      "term" : "What is meant by attention?",
+      "id" : "12206262909",
+      "definition" : "The extent to which the performer notices the information. This is done through a demonstration.",
+      "version" : "1"
+    },
+    {
+      "term" : "What makes a good demonstration?",
+      "id" : "12206262910",
+      "definition" : "Done by somebody of high status eg coach or teacher\nPerson demonstrating as a role model \nDemonstration should be accurate and successful \nDemonstration should be of high-quality \nDemonstrator should be attractive \nLearners must be physically and mentally ready to complete the school demonstrated",
+      "version" : "1"
+    },
+    {
+      "term" : "What is meant by retention?",
+      "id" : "12206262911",
+      "definition" : "The extent to which behaviour is remembered. This is saved in the mind via a visual image. This is ingrained in a long-term memory through mental rehearsal.",
+      "version" : "1"
+    },
+    {
+      "term" : "What is meant by motor production?",
+      "id" : "12206262912",
+      "definition" : "Is the performer physically able to do the movement this refers to the learning of being physically and mentally mature and able?",
+      "version" : "1"
+    },
+    {
+      "term" : "What is meant by motivation?",
+      "id" : "12206262913",
+      "definition" : "The desire to achieve the goal and learn. This occurs through intrinsic motivation like pride, extrinsic motivation like external rewards medals trophies, general praise, specific praise.",
+      "version" : "1"
+    },
+    {
+      "term" : "What are the aspects of the cognitive learning theory?",
+      "id" : "12206262914",
+      "definition" : "Gestaltist approach\nProblem-solving \/insight learning\nThinking and understanding \nWhole learning (completed in its entirety)\nPrevious experience \/long-term memory\nIntervening variables (everything that the learner must take into account to solve a problem)",
+      "version" : "1"
+    },
+    {
+      "term" : "Analyse how following the cognitive theory of learning may affect their learning",
+      "id" : "12206262915",
+      "definition" : "Following the content of the learning means to perform actively thinks about and understands what they’re doing. This can help the learner develop a better understanding of the skill aligning to apply it more effectively in game situations. Because they’re learning the school is a whole they can also develop their kinaesthetic awareness and learn to self correct without relying entirely on the coach. However, if the school is complex complex or dangerous, the performer may find it too difficult to understand and could lose motivation if they don’t make progress quickly.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe Craik and Lockharts level of processing model",
+      "id" : "12206262917",
+      "definition" : "How deeply we consider information determines how long the memory lasts.\nFirst level = structural which involves paying attention to what the info looks like (visually)\n2nd level: phonetic\/acoustic which refers to how the information sounds.\nThese are shallow because they don’t involve much processing \nThese will result in a weaker memory trace as shallow processing means info is less likely to be stored in LTM\n3rd level is semantic which considers the meaning of the information\nThis is deep because it involves more processing\nThis is more likely to result in a stronger memory trace as it involves deepened processing which is more likely to be stored in LTM\nInformation is more likely to be remembered if it has meaning \/ personal relevance.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the sensory register\/short term sensory stores in Atkinson and shiffrins multistore memory model",
+      "id" : "12206262918",
+      "definition" : "Info enters via the senses \nCapacity = limitless \nDuration = up to 1 seconds \nSelective attention takes place here \nInformation is filtered to the short term memory (encoding)",
+      "version" : "1"
+    },
+    {
+      "term" : "What is selective attention",
+      "id" : "12206262919",
+      "definition" : "The filtering in of relevant information and filtering out of irrelevant cues. Relevant info is sent to the STM.",
+      "version" : "1"
+    },
+    {
+      "term" : "Give an sporting example of selective attention",
+      "id" : "12206262920",
+      "definition" : "In tennis selective attention takes place when the opposition returns a serve. Relevant info such as the ball speed and trajectory is filtered into the STM whereas irrelevant info like position of line judges, noise of the crowd etc is filtered out\/discarded becasue it is useless when completing the return shot.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the STM (working memory) is the MSMM",
+      "id" : "12206262921",
+      "definition" : "Receives relevant info from sensory register \nCapacity: 5-9 items \nChunking can increase capacity \/ easier to retain info \nDuration: 30seconds\nInfo is passed to LTM (encoding)",
+      "version" : "1"
+    },
+    {
+      "term" : "What is chunking",
+      "id" : "12206262922",
+      "definition" : "Grouping together different pieces of info to make one piece of information so more items can be remembered more easily. Eg. Line out routines in rugby",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the LTM is the MSMM",
+      "id" : "12206262923",
+      "definition" : "Stores motor programmes \nReceives info from stm (encoded)\nCapacity = limitless \nDuration = permanent \nInfo is passed back to the stm (decoding) through retrieval.",
+      "version" : "1"
+    },
+    {
+      "term" : "Evaluate a+s’s MSMM",
+      "id" : "12206262924",
+      "definition" : "+ simple to understand \n+) explains how skills which have been rehearsed can be remembered \/ retrieves ebtter from LTM \n+) ex[plains how ppl with brain damage can suffer from dysfunctional memory \n+ LTM explains how an individual can perform a skill which they havent done for a long time \n\n- doesnt explain why individuals may remember one type og info eg. Diagram but not another eg. Coaches explanation \n- doesnt account for individual differences eg. In capacity or duration \n- doesnt account for depth of processing eg. Interests\/motivation\/ meaning of info \/ personal relevance \n- doesnt explain how some things which are repeated \/rehearsed are forgotten",
+      "version" : "1"
+    },
+    {
+      "term" : "Using a+s’s MSMM, suggest how a performer learns a new skill so that it becomes stored in their LTM",
+      "id" : "12206262925",
+      "definition" : "Info passes from environment into sensory register with limitless capacity and a duration of up to 1 sec. Here, selective attention takes place where irrelevant info is discarded and relevant info is filtered into the stm. STM holds 7+-2 items for up to 30 secs. Decisions made in stm as incoming info is interpreted. Rehearsal aids retention so it is stored in LTM. Chunking helps increase storage\/capacity. Info becomes encoded. Skill is stored as motor programmes in LTM. Info is retrieved to stm and updated back in LTM to aid LTM storage.",
+      "version" : "1"
+    },
+    {
+      "term" : "Suggests some methods that a coach could use to help info be stored in the LTM",
+      "id" : "12206262926",
+      "definition" : "Chunking, avoid overload, association\/transfer, make info relevant to performer, rehearsal\/repetition.",
+      "version" : "1"
+    },
+    {
+      "term" : "Analyse how the stm and LTM are used in the performance of physical activities",
+      "id" : "12206262927",
+      "definition" : "STM: \nPerception occurs \/ decision making, \nThis is where info is judged (cricket batter judging spin of ball)\nInfo is rehearsed (eg. Flight of ball remembered)\nInfo is organised in brain (eg flight vs speed of ball) \n\nLTM:\nMotor programmes formed eg. Tennis player stored no. Of serve-return movement patterns \nCurrent and past experiences compared eg. Previous successful returns remembered \nInfo retrieved to STM",
+      "version" : "1"
+    }
+  ],
+  "source_type" : "",
+  "created_by" : "",
+  "lang_definitions" : "en-US",
+  "created_date" : "1756820151.144425",
+  "title" : "Skill Acquisition Feedback Guidance Transfer Memory Models Learning theories",
+  "lang_terms" : "en-US"
+}

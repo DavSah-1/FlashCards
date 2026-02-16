@@ -1,0 +1,477 @@
+{
+  "id" : "0",
+  "term_count" : "77",
+  "sample" : "0",
+  "modified_date" : "1760820199.648087",
+  "version" : "0",
+  "terms" : [
+    {
+      "term" : "3 components of cardiovascular system",
+      "id" : "8206081220",
+      "definition" : "Heart\nBlood vessels\nBlood",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the pathway of blood through the heart",
+      "id" : "8206081228",
+      "definition" : "Blood enters the heart at the vena cava through the right atrium, then through the tricuspid valve into the right ventricle and out of the heart out the pulmonary artery through the semi-lunar\/pulmonary valve. After oxygen is diffused into the bloodstream at the lungs, it returns to the heart through the pulmonary vein into the left atrium and then through the bicuspid valve into the left ventricle. Then out the aorta through the aortic\/semi-lunar valve.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe conduction system of the heart",
+      "id" : "8206081231",
+      "definition" : "Myogenic as generates own impulse. \nImpulse initiated at SA node (in posterior wall of right atrium) = pacemaker \nImpulse travels through atrial walls causing them to contract \nReaches to AV node in top of septum which delays impulse allowing atria to finish contraction\nTravels to bundle of HIS in middle septum\nsplits into bundle branches \nTravels up and around walls of ventricles via purkinje fibres causing them to contract \nVentricles relax and fill with blood until next impulse is initiated from SA node",
+      "version" : "1"
+    },
+    {
+      "term" : "Define cardiac cycle",
+      "id" : "8206081233",
+      "definition" : "Mechanical events of a single heartbeat",
+      "version" : "1"
+    },
+    {
+      "term" : "Approx HR",
+      "id" : "8206081236",
+      "definition" : "72 bpm",
+      "version" : "1"
+    },
+    {
+      "term" : "At rest cardiac cycle lasts…",
+      "id" : "8206081239",
+      "definition" : "0.8",
+      "version" : "1"
+    },
+    {
+      "term" : "Diastole lasts…",
+      "id" : "8206081241",
+      "definition" : "0.5s",
+      "version" : "1"
+    },
+    {
+      "term" : "Systole lasts…",
+      "id" : "8206081244",
+      "definition" : "0.3s",
+      "version" : "1"
+    },
+    {
+      "term" : "3 phases of cardiac cycle",
+      "id" : "8206081247",
+      "definition" : "Diastole, atrial systole , ventricular systole",
+      "version" : "1"
+    },
+    {
+      "term" : "Define diastole",
+      "id" : "8206081249",
+      "definition" : "Relaxation of heart, fills with blood lasts 0.5 secs",
+      "version" : "1"
+    },
+    {
+      "term" : "Define atrial systole",
+      "id" : "8206081252",
+      "definition" : "Contraction of atria when blood is forced into ventricles",
+      "version" : "1"
+    },
+    {
+      "term" : "Define ventricular systole",
+      "id" : "8206081254",
+      "definition" : "Contraction of ventricles forcing blood out of heart into body",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the events of the cardiac cycle",
+      "id" : "8206081256",
+      "definition" : "Diastole lasts for 0.5 secs as the heart relaxes and fills with blood. Pressure increases in the atria as tricuspid \/ bicuspid valves remain shut until blood is forced into the ventricles during atrial systole when pressure gets too high and atria contract. Ventricles then contract to force blood out of heart via semi-lunar valves.",
+      "version" : "1"
+    },
+    {
+      "term" : "What does no electrical impulse cause",
+      "id" : "8206081259",
+      "definition" : "Diastole",
+      "version" : "1"
+    },
+    {
+      "term" : "Define cardiac output",
+      "id" : "8206081261",
+      "definition" : "Volume of blood leaving left ventricle per minute (L\/min)",
+      "version" : "1"
+    },
+    {
+      "term" : "Define stroke volume",
+      "id" : "8206081264",
+      "definition" : "Volume of blood leaving the heart per beat (mL\/beat)",
+      "version" : "1"
+    },
+    {
+      "term" : "Define HR",
+      "id" : "8206081266",
+      "definition" : "Amount of times heart beats per minute (bpm)",
+      "version" : "1"
+    },
+    {
+      "term" : "Relationship between Q SV and HR",
+      "id" : "8206081269",
+      "definition" : "Q=SVxHR",
+      "version" : "1"
+    },
+    {
+      "term" : "Define bradycardia",
+      "id" : "8206081271",
+      "definition" : "Term for resting HR of below 60bpm",
+      "version" : "1"
+    },
+    {
+      "term" : "Average HR of untrained performer (rest, sub max, max)",
+      "id" : "8206081273",
+      "definition" : "72, 120, 220-age",
+      "version" : "1"
+    },
+    {
+      "term" : "Average SV of untrained performer (rest, s-m, m)",
+      "id" : "8206081275",
+      "definition" : "70, 120, 120 (peaks at sum-maximal exercise)",
+      "version" : "1"
+    },
+    {
+      "term" : "Why does SV peak at sub max exercise ?",
+      "id" : "8206081278",
+      "definition" : "Because the heart can only pump so much in one beat, after that cardiac output increases as a result of HR increase",
+      "version" : "1"
+    },
+    {
+      "term" : "Average cardiac output for untrained performer\nRest, s-m, m",
+      "id" : "8206081280",
+      "definition" : "5, 10, 20",
+      "version" : "1"
+    },
+    {
+      "term" : "Average HR for trained performer",
+      "id" : "8206081282",
+      "definition" : "50, 100, 220-age",
+      "version" : "1"
+    },
+    {
+      "term" : "SV trained performer",
+      "id" : "8206081284",
+      "definition" : "100, 180, 180",
+      "version" : "1"
+    },
+    {
+      "term" : "Q trained",
+      "id" : "8206081286",
+      "definition" : "5, 17, 35",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe Hr changes during 3k\/sub max run",
+      "id" : "8206081289",
+      "definition" : "AR due to release of adrenaline \nRapid increase to meet demand of O2 needed, HR spikes suddenly as exercise begins after rest \nSteady state: HR met demand of 02 required or exercising at a constant speed\/intensity.\nRapid decrease: exercise stops and demand for o2 decreases",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe HR changes during high intensity exercise eg. 400m run",
+      "id" : "8206081292",
+      "definition" : "Anticipatory rise- adrenaline \nRapid increase - exercise suddenly begins from rest, iuncxreased 02 demand \nSlower increase: due to increasing pace\/increased 02 demand as excericse increases in intensity \nRapid decrease as excerpts use stops 02 no longer needed in such high demand \nSlower decrease to resting hr",
+      "version" : "1"
+    },
+    {
+      "term" : "What happens to cardiac output during exercise",
+      "id" : "8206081294",
+      "definition" : "Increases and plateaus during maximal exercise",
+      "version" : "1"
+    },
+    {
+      "term" : "What happened to SV during exercise",
+      "id" : "8206081296",
+      "definition" : "Increases until sub max then plateaus",
+      "version" : "1"
+    },
+    {
+      "term" : "How can stroke volume increase",
+      "id" : "8206081299",
+      "definition" : "Starlings law",
+      "version" : "1"
+    },
+    {
+      "term" : "What does starling’s law state",
+      "id" : "8206081301",
+      "definition" : "‘The force of ventricular contraction is dependent on the length of muscle fibres in the heart wall’",
+      "version" : "1"
+    },
+    {
+      "term" : "Define end diastolic volume",
+      "id" : "8206081303",
+      "definition" : "Amount of blood in the right or left ventricle after filling (diastole)",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the events of starlings law in increasing stroke volume.",
+      "id" : "8206081305",
+      "definition" : "Increased venous return causes greater end diastolic volume which causes heart muscle to stretch as its elastic. This results in a more powerful contraction resulting in a greater ejection fraction which results in greater stroke volume.",
+      "version" : "1"
+    },
+    {
+      "term" : "Which nervous system controls heart rate",
+      "id" : "8206081306",
+      "definition" : "Autonomic",
+      "version" : "1"
+    },
+    {
+      "term" : "What are the 3 main control mechanisms which determine the action of the CCC",
+      "id" : "8206081308",
+      "definition" : "Neural\nIntrinsic \nHormonal",
+      "version" : "1"
+    },
+    {
+      "term" : "3 neural",
+      "id" : "8206081310",
+      "definition" : "Chemoreceptors \nProprioreceptors \nBaroreceptors",
+      "version" : "1"
+    },
+    {
+      "term" : "Proprioceptors function and location",
+      "id" : "8206081312",
+      "definition" : "In joints detects motor activity\/movement",
+      "version" : "1"
+    },
+    {
+      "term" : "Chemoreceptrs",
+      "id" : "8206081314",
+      "definition" : "Detect changes in blood acidity (CO2 and lactic acid)",
+      "version" : "1"
+    },
+    {
+      "term" : "Baroreceptors",
+      "id" : "8206081316",
+      "definition" : "Detects changes in blood pressure",
+      "version" : "1"
+    },
+    {
+      "term" : "How do chemoreceptors cause HR to increase",
+      "id" : "8206081319",
+      "definition" : "As exercises begins, chemoreceptors detect an increase in blood acidity (more co2 and lactic acid) and informs the CCC (in medulla oblongata). An impulse is sent via the accelerator nerve tot eh SA node to stimulate more electrical impulses to be generated at a higher frequency, resulting in increased HR.",
+      "version" : "1"
+    },
+    {
+      "term" : "Intrinsic control",
+      "id" : "8206081321",
+      "definition" : "Temperature increase during exercise causes decreased viscosity of blood, allowing more blood to enter in the heart quicker to be pumped out faster. \nTemperature increases nerve impulse transmission (CCC->SA). \nVenous return increases, increasing stretch in ventricle walls, increases force of ventricular contraction and therefore SV.",
+      "version" : "1"
+    },
+    {
+      "term" : "Hormonal control",
+      "id" : "8206081323",
+      "definition" : "Adrenal glands release adrenaline\/noradrenaline. Increases force of contraction and stroke volume, heart rate increases.",
+      "version" : "1"
+    },
+    {
+      "term" : "Sympathetic nervous system impact on HR",
+      "id" : "8206081325",
+      "definition" : "Increases",
+      "version" : "1"
+    },
+    {
+      "term" : "ParaSympathetic nervous system impact on HR",
+      "id" : "8206081327",
+      "definition" : "Decreases",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe how the NS controls HR",
+      "id" : "8206081329",
+      "definition" : "Accelerator nerve - when stimulated as part of Sympathetic NS, increases HR \nGoes between medulla oblongata and SA node\n\nVagus nerve - when stimulated as part of Parasypathetic NS, decreases HR Goes between medulla oblongata and SA node",
+      "version" : "1"
+    },
+    {
+      "term" : "What is the vascular system made of",
+      "id" : "8206081331",
+      "definition" : "Blood vessels",
+      "version" : "1"
+    },
+    {
+      "term" : "Function of blood",
+      "id" : "8206081334",
+      "definition" : "Transport nutrients eg. O2 and glucose \nProtect and fight diseases\nRegulate temperature",
+      "version" : "1"
+    },
+    {
+      "term" : "Artery structure and functions",
+      "id" : "8206081336",
+      "definition" : "Thick walls to withstand high pressure\nelastic fibres to stretch with each surge of high pressure without tearing\nInterior walls have more smooth muscle than veins do allowing change size as pressure changes during exercise.",
+      "version" : "1"
+    },
+    {
+      "term" : "Arterioles structure and function",
+      "id" : "8206081338",
+      "definition" : "Smallest artery branch.\nGreater amounts of smooth muscle allowing them to vasoconstrict and dilate easily in order to regulate blood flow and maintain BP\nConnects arteries and capillaries",
+      "version" : "1"
+    },
+    {
+      "term" : "Veins structure and function",
+      "id" : "8206081340",
+      "definition" : "Near surface usually\nValves to prevent backlfow as low pressure \nLess elastic fibres\/smooth muscles bc withstand less pressure.\nThin walls leads to blood pooling as they can widen (this affects venous return )",
+      "version" : "1"
+    },
+    {
+      "term" : "Venule structure and function",
+      "id" : "8206081342",
+      "definition" : "Smallest vein branches = venules. \nTransport blood away from the capillary beds into veins.",
+      "version" : "1"
+    },
+    {
+      "term" : "Capillaries",
+      "id" : "8206081344",
+      "definition" : "One cell thick \nSite of gaseous exchange - completely coveres muscles (efficient)\nallows food and oxygen to pass out of body cells and co2 \/ waste products into bloodstream \nMoist \nShort diffusion pathways",
+      "version" : "1"
+    },
+    {
+      "term" : "Pre capillary sphincters",
+      "id" : "8206081345",
+      "definition" : "Control blood flow through capillary networks",
+      "version" : "1"
+    },
+    {
+      "term" : "Define Venus return",
+      "id" : "8206081347",
+      "definition" : "Return of blood to the right side of the heart",
+      "version" : "1"
+    },
+    {
+      "term" : "Why does VR need to be assisted ?",
+      "id" : "8206081349",
+      "definition" : "Because venous pressure is a lot lower than arterial pressure",
+      "version" : "1"
+    },
+    {
+      "term" : "What are the 5 mechanisms assisting VR",
+      "id" : "8206081351",
+      "definition" : "Pocket valves \nSkeletal muscle pump\nRespiratory pump\nSmooth muscle \nGravity",
+      "version" : "1"
+    },
+    {
+      "term" : "2 during excecise",
+      "id" : "8206081352",
+      "definition" : "Smooth muscle \nGravity",
+      "version" : "1"
+    },
+    {
+      "term" : "Outline how pocket valves assist VR",
+      "id" : "8206081354",
+      "definition" : "Veins contain pocket valves which are one way system, preventing backflow. Prevent heavy legs and ensure blood always flows towards the heart instead of backwards.",
+      "version" : "1"
+    },
+    {
+      "term" : "How do pocket valves and skeletal muscle pump work together",
+      "id" : "8206081356",
+      "definition" : "Valves are assisted by skeletal muscle in maintaining one directional flow.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe how skeletal muscle pump aids VR",
+      "id" : "8206081358",
+      "definition" : "Contraction of skeletal muscles squeezes veins with thin walls, forcing blood back to the heart faster with greater force.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe how respiratory pump aids VR",
+      "id" : "8206081360",
+      "definition" : "Expiration increases pressure in lungs which compresses respiratory veins, forcing blood back to heart. Inspiration flattens the diaphragm and squeezes abdominal organs against5 veins also forcing blood back to the heart. This all increases VR.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe how smooth muscle aids VR",
+      "id" : "8206081361",
+      "definition" : "Veins have smooth muscle which helps them venoconsctrict and venodilate. The brain send signals through the ANS to the smooth muscle from the vasomotor centre. Venocontriction decreases lumen size, forcing blood back to the heart faster\/with greater force.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe how gravity aids VR",
+      "id" : "8206081363",
+      "definition" : "Assists blood flow back to heart from the upper body as blood flows alongside the pull of gravity.",
+      "version" : "1"
+    },
+    {
+      "term" : "Why is skeletal muscle pump the most important mechanism which increases VR?",
+      "id" : "8206081365",
+      "definition" : "Because not only does it squeeze veins through contraction of muscles, forcing more blood towards the heart at a faster rate with greater force, it works alongside pocket valves (helps to maintain one directional flow) and gravity (because gravity hinders VR from lower body so skeletal muscle pump helps it get from lower body to heart quicker, increasing VR).",
+      "version" : "1"
+    },
+    {
+      "term" : "Why do sports like swimming have a higher Vr dueieng exceecise than running ?",
+      "id" : "8206081367",
+      "definition" : "Because swimmers are usually in a supine\/lying down\/horizontal position, so they have a higher VR during excericse because their bodies aren’t working against gravity so much.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the difference between blood distribution at rest and during exercise",
+      "id" : "8206081369",
+      "definition" : "At rest, blood is distributed evenly with most blood going to vital organs such as the liver,brain,kidneys and digestive system. During exercise, blood goes almost 90% to muscles and decreases to organs (except for brain Which remains the same always).",
+      "version" : "1"
+    },
+    {
+      "term" : "Define vascular shunt mechanism",
+      "id" : "8206081371",
+      "definition" : "Redistribution of blood during exercise",
+      "version" : "1"
+    },
+    {
+      "term" : "Explain the distribution of blood flow during exercise",
+      "id" : "8206081372",
+      "definition" : "Blood flow is decreased to areas of body which don’t immediately require as much o2 as normal, eg. Digestive system, liver, kidneys\nBlood flow is increased to skeletal muscles which requires lots more o2 for respiration during exercise",
+      "version" : "1"
+    },
+    {
+      "term" : "How does vasoconstriction work",
+      "id" : "8206081374",
+      "definition" : "The narrowing of the arteries via smooth muscle or the contraction of pre-capillary sphincters which prevent blood flow through surrounding capillaries",
+      "version" : "1"
+    },
+    {
+      "term" : "How does vasodilation work",
+      "id" : "8206081376",
+      "definition" : "Widening of arteries via smooth muscle or the relaxation of pre capillary sphincters which allow blood to pass through surrounding capillaries.",
+      "version" : "1"
+    },
+    {
+      "term" : "How is blood redistributed during exercise",
+      "id" : "8206081378",
+      "definition" : "Through vascular shunt mechanims\nPre capillary sphincters are located in the arterioles. Rings of muscle which either relax to increase blood flow through to capillaries or contract to reduce blood flow through to capillaries. (Vasocntronsticton) vasodilation\nTowards muscles, arterioles vasodilate to allow more blood and therefore oxygen to the muscle cells for respiration \nTowards non-vital eg. Digestive organs, arterioles vasocontrict to reduce blood flow therefore allowing extra to go to muscles",
+      "version" : "1"
+    },
+    {
+      "term" : "What controls the redistribution of blood",
+      "id" : "8206081380",
+      "definition" : "Vasomotor control centre (VCC) located in medulla oblongata.",
+      "version" : "1"
+    },
+    {
+      "term" : "What’s vasomotor tone",
+      "id" : "8206081382",
+      "definition" : "Constant slight state of constriction of smooth muscle in arterial walls.",
+      "version" : "1"
+    },
+    {
+      "term" : "How does the VCC control the vascular shunt mechanism",
+      "id" : "8206081383",
+      "definition" : "Stimulates sympNS via nerves in smooth muscle of arterial walls, causing vasoconstriction at arterioles \/ pre-capillary sphincters to unimportant areas eg. Liver\/kidneys and vasodilation to increase blood flow to active muscles.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the location of the AV node",
+      "id" : "8206081385",
+      "definition" : "Right side of the heart between the right and left ventricles. Above bundle of HIS",
+      "version" : "1"
+    },
+    {
+      "term" : "Explain how the conduction system control diastole",
+      "id" : "8206081386",
+      "definition" : "When there is no electrical impulse, the heart can relax and fill with blood.",
+      "version" : "1"
+    }
+  ],
+  "source_type" : "",
+  "created_by" : "",
+  "lang_definitions" : "en-US",
+  "created_date" : "1760820199.648087",
+  "title" : "cardiovascular system",
+  "lang_terms" : "en-US"
+}

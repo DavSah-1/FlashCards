@@ -1,0 +1,711 @@
+{
+  "id" : "0",
+  "term_count" : "116",
+  "sample" : "0",
+  "modified_date" : "1756814005.043218",
+  "version" : "0",
+  "terms" : [
+    {
+      "term" : "Define behaviourism",
+      "id" : "1571143189",
+      "definition" : "An approach which emphasises objective methods of investigation.",
+      "version" : "1"
+    },
+    {
+      "term" : "What is the behaviourist approach interested in studying?",
+      "id" : "1571143197",
+      "definition" : "Only behaviour which can be observed and measured",
+      "version" : "1"
+    },
+    {
+      "term" : "How did behaviourists maintain control and objectivity in their research?",
+      "id" : "1571143201",
+      "definition" : "Lab studies",
+      "version" : "1"
+    },
+    {
+      "term" : "Do behaviourists believe in the blank state theory?",
+      "id" : "1571143204",
+      "definition" : "Yes they believe that all behaviour is learned through experience, ‘tabula rasa’",
+      "version" : "1"
+    },
+    {
+      "term" : "Outline the importance of the Black Box model",
+      "id" : "1571143208",
+      "definition" : "Outlines the limitations of behaviourist approaches as what happens between the stimulus and response phase is not observable.",
+      "version" : "1"
+    },
+    {
+      "term" : "What is a limitation of the behaviourist approaches?",
+      "id" : "1571143211",
+      "definition" : "It doesn’t account for what occurs between the stimulus and response as suggested by the ‘Black Box’ model.",
+      "version" : "1"
+    },
+    {
+      "term" : "Define classical conditioning",
+      "id" : "1571143213",
+      "definition" : "Learning through association. Occurs when NS and UCS are repeatedly paired together. Gradually NS produces same response as UCS.",
+      "version" : "1"
+    },
+    {
+      "term" : "Which scientist first demonstrated classical conditioning?",
+      "id" : "1571143216",
+      "definition" : "Ivan Pavlov 1927",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe pavlov's study on dogs",
+      "id" : "1571143218",
+      "definition" : "Pavlov showed how dogs can be conditioned to salivate at the sound of a bell. \nFirst the food was repeatedly presented alongside the bell sound. \nGradually the dogs began to associate the sound of the bell with food.\nEventually the sound of the bell would cause the dogs to produce salivation as they associated it with food.",
+      "version" : "1"
+    },
+    {
+      "term" : "name the unconditioned, neutral and conditioned stimuli in Pavlov’s study.",
+      "id" : "1571143219",
+      "definition" : "Unconditioned Stimulus: Food - Unconditioned Response: Salivation\nNeutral stimulus: Bell sound - no conditioned response\nConditioned stimulus: Bell - conditioned response: Salivation",
+      "version" : "1"
+    },
+    {
+      "term" : "Write a flow chart for classical conditioning +eg.",
+      "id" : "1571143221",
+      "definition" : "Stimulus -> Response -> Associative learning -> conditioned response for future\nFilling at dentist -> Pain -> Associates pain with dentist -> doesn’t want to go back to the dentist\/ fears pain\/ feels stress",
+      "version" : "1"
+    },
+    {
+      "term" : "Is learning active or passive in classical conditioning",
+      "id" : "1571143222",
+      "definition" : "Passive",
+      "version" : "1"
+    },
+    {
+      "term" : "Define operant conditioning",
+      "id" : "1571143223",
+      "definition" : "Learning through punishments and reinforcements",
+      "version" : "1"
+    },
+    {
+      "term" : "Is operant conditioning active or passive",
+      "id" : "1571143224",
+      "definition" : "Active",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe Skinner’s (1953) research",
+      "id" : "1571143226",
+      "definition" : "Often on birds or rodents, skinner would research operant conditioning. In one experiment, every time a rat activated a lever, it would receive a food pellet, from then on the rat would continue this behaviour (positive reinforcement). He also showed how negative reinforcement could be used to condition pigeons to perform the same behaviour in order to avoid an electric shock.",
+      "version" : "1"
+    },
+    {
+      "term" : "Define positive reinforcement",
+      "id" : "1571143227",
+      "definition" : "When something is added to the experiment in order to increase the likelihood of certain behaviour recurring.",
+      "version" : "1"
+    },
+    {
+      "term" : "Define negative reinforcement",
+      "id" : "1571143228",
+      "definition" : "When something is removed form the experiment in order to increase the likelihood of certain behaviour recurring",
+      "version" : "1"
+    },
+    {
+      "term" : "Define punishment",
+      "id" : "1571143229",
+      "definition" : "An unpleasant consequence intended to decreased the likelihood of a certain behaviour occurring",
+      "version" : "1"
+    },
+    {
+      "term" : "Is all positive reinforcement good and all negative bad?",
+      "id" : "1571143230",
+      "definition" : "No, both can be either pleasant or unpleasant the important thing is that they remove or add something to the experiment.",
+      "version" : "1"
+    },
+    {
+      "term" : "Define stimulus",
+      "id" : "1571143231",
+      "definition" : "Anything which brings about a response (int\/ext)",
+      "version" : "1"
+    },
+    {
+      "term" : "Define NS",
+      "id" : "1571143232",
+      "definition" : "A stimulus which doesn’t naturally produce a response.",
+      "version" : "1"
+    },
+    {
+      "term" : "Define response",
+      "id" : "1571143233",
+      "definition" : "Any reaction in the presence of a stimulus.",
+      "version" : "1"
+    },
+    {
+      "term" : "Define UCS",
+      "id" : "1571143234",
+      "definition" : "A stimulus which produces a reflex action",
+      "version" : "1"
+    },
+    {
+      "term" : "Define UCR",
+      "id" : "1571143235",
+      "definition" : "An innate reflex response",
+      "version" : "1"
+    },
+    {
+      "term" : "Define CS",
+      "id" : "1571143236",
+      "definition" : "Stimulus which produces the learned response after association occurs.",
+      "version" : "1"
+    },
+    {
+      "term" : "Define CR",
+      "id" : "1571143237",
+      "definition" : "A learned response",
+      "version" : "1"
+    },
+    {
+      "term" : "Define spontaneous recovery",
+      "id" : "1571143238",
+      "definition" : "Reappearance of a previously extinguished CR following period of no exposure to CS.",
+      "version" : "1"
+    },
+    {
+      "term" : "Define timing - when is conditioning most effective?",
+      "id" : "1571143239",
+      "definition" : "Refers to importance of time interval between presentation of NS (becomes CS) and the UCS. Conditioning is most effective when NS is presented shortly before UCS.",
+      "version" : "1"
+    },
+    {
+      "term" : "What are the assumptions of the behaviourist approach",
+      "id" : "1571143240",
+      "definition" : "Assume that:\n-All born as blank slate (‘tabula rasa’) therefore all behaviour is learned \n-Focus on observable and quantifiable behaviour only as thoughts and emotions can’t be measured\n-Animals and humans learn in the same way.",
+      "version" : "1"
+    },
+    {
+      "term" : "How would you describe the research methods used by the behaviourist approach",
+      "id" : "1571143241",
+      "definition" : "-experimental\n-observe visible behaviour only\n-animals are test subjects not human\n-observing quantifiable behaviour",
+      "version" : "1"
+    },
+    {
+      "term" : "What is generalisation in Classical conditioning?",
+      "id" : "1571143242",
+      "definition" : "When a stimulus similar to the original CS produces the same response.",
+      "version" : "1"
+    },
+    {
+      "term" : "What is extinction in classical conditioning?",
+      "id" : "1571143243",
+      "definition" : "When a CR stops being producesd by a CS as all learning and association related is forgotten \/ lost",
+      "version" : "1"
+    },
+    {
+      "term" : "What causes extinction",
+      "id" : "1571143244",
+      "definition" : "Occurs when CS repeatedly is presented without UCS, so learning wears off\/ re-learn not to associate them together",
+      "version" : "1"
+    },
+    {
+      "term" : "Name given to psychologists who subscribe to behaviourist approach",
+      "id" : "1571143245",
+      "definition" : "Empiricists",
+      "version" : "1"
+    },
+    {
+      "term" : "What are the 6 approaches",
+      "id" : "1571143246",
+      "definition" : "Behaviourist \nSocial learning\nCognitive\nBiological\nPsychodynamic\nHumanistic",
+      "version" : "1"
+    },
+    {
+      "term" : "EVAL:\nWhat is a pro of classical conditioning? + eg + explain",
+      "id" : "1571143246",
+      "definition" : "- Research has been applied to therapy in the development of treatment for reduction in anxiety associated phobias - improves lives of individuals.\n- Systematic desensitisation: type of therapy based on CC. Works by using counter-conditioning to unlearn a fear\/anxiety response by eliciting another response (relaxation) for phobias. \n-this CC based approach has been found to be effective for a range of phobias like arachnophobia.",
+      "version" : "1"
+    },
+    {
+      "term" : "EVAL:\nWhat is a con of classical conditioning +eg\/explain",
+      "id" : "1571143247",
+      "definition" : "-only appropriate for some learning as different species face different survival challenges so relationship between CS and UCS are more difficult to establish.\n-seligman (1970) “preparedness” eg animals are prepared to learn associations significant for survival and are not prepared to learn those which aren’t. \n-this suggest CC may be more appropriate in the learning of specific types of association.",
+      "version" : "1"
+    },
+    {
+      "term" : "EVAL:\nWhat is a pro of operant conditioning +eg\/explain",
+      "id" : "1571143248",
+      "definition" : "-skinners reliant on the ‘experimental’ method\n-by manipulating the consequences of behaviour (IV) he could accurately measure the effect on rat’s behaviour (DV)\n-allows to establish a “cause and effect” relationship between consequences of behaviour and future frequency in its occurrence.\n-allows for high control and increased validity due to standardised conditions",
+      "version" : "1"
+    },
+    {
+      "term" : "EVAL:\nWhat is a cons of operant conditioning +eg\/explain",
+      "id" : "1571143249",
+      "definition" : "-over reliance on non-human animals in research:\n-critics argue rats and pigeons tell us little about human behaviour as humans have a more developed pre-frontal cortex and they argue humans have free will\n-skinner argued that free will is an illusion and even our behaviours believed to be chosen by free will are a product of external guiding influences.",
+      "version" : "1"
+    },
+    {
+      "term" : "EVAL: overall behaviourism \nWhat are 3 cons of the behaviourist approach in experiments",
+      "id" : "1571143250",
+      "definition" : "1. Ethical concerns:\n-question ethical use of electric shock as it would not be cleared today as humane\n-incision in salivary gland for saliva measurement \n\n2. there is an extrapolation of findings which could decrease the plausibility of this research in relation to human behaviour considering the difference in development of rodent \/ pigeon brains and that of a human (pre frontal cortex : decision-making, reasoning and forward planning which are not accounted for in the behaviourist approach as this is not observable or necessarily displayed in behaviour.)\n\n3. Takes a long time to produce results",
+      "version" : "1"
+    },
+    {
+      "term" : "EVAL: overall Behaviourist",
+      "id" : "1571143251",
+      "definition" : "-ignore other levels of explanation eg.thoughts feelings emotions eg. Skinner argued complex behaviours better understood by studying reinforcement history of individual.",
+      "version" : "1"
+    },
+    {
+      "term" : "EXAM QS: briefly outline how Pavlov investigated classical conditioning 3m",
+      "id" : "1571143252",
+      "definition" : "-Learning through association\n-before conditioning : food (UCS) -> UCR salivation + bell (NS) -> no response\n-during conditioning bell and food repeatedly paired \n-gradually dogs associated bell with food\n-ns -> cs \n-bell -> salivation because now CS-> CR",
+      "version" : "1"
+    },
+    {
+      "term" : "Similarity between SLT and behaviourism:",
+      "id" : "1571143253",
+      "definition" : "Both a Theory of now humans learn.",
+      "version" : "1"
+    },
+    {
+      "term" : "Difference between SLT and behaviourism",
+      "id" : "1571143253",
+      "definition" : "-instead of animal subjects SLT uses human pt.s therefore uses generalisation instead of extrapolation.\n- instead of lab settings SLT investigations occur in real world social environments.\n-instead of focusing on learning through personal experience its through observing others. \n-cognitive processes are being considered eg. Black box model",
+      "version" : "1"
+    },
+    {
+      "term" : "Define SLT",
+      "id" : "1571143254",
+      "definition" : "Theory of how we learn based on principles of behaviourism and reciprocal determinism. Learning by observing others and imitating their behaviour which is rewarded.",
+      "version" : "1"
+    },
+    {
+      "term" : "Define ecological validity",
+      "id" : "1571143255",
+      "definition" : "Extent to which behaviours in an investigative setting are reflective of how humans behave in the real world.",
+      "version" : "1"
+    },
+    {
+      "term" : "Define vicarious reinforcement",
+      "id" : "1571143256",
+      "definition" : "Learning by observing the consequences of others’ behaviour. Eg seeing someone get a reward for writing notes in a certain way so you imitate that note style",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe implicit learning",
+      "id" : "1571143256",
+      "definition" : "Learning without conscious awareness eg. Not intending to learn.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe explicit learning",
+      "id" : "1571143257",
+      "definition" : "Actively imitating another persons behaviour in order to receive the same reward - conscious and intentional",
+      "version" : "1"
+    },
+    {
+      "term" : "Define imitation",
+      "id" : "1571143258",
+      "definition" : "Using another person as a model and copying them",
+      "version" : "1"
+    },
+    {
+      "term" : "Define identification",
+      "id" : "1571143259",
+      "definition" : "An individual adopts a behaviour because they want to be associated with that group due to relatability as individual ,must feel similar to model\/group in some way.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the SLT process of learning",
+      "id" : "1571143259",
+      "definition" : "1. Observation of model\/s \n2. Imitation\n3. Reinforcement",
+      "version" : "1"
+    },
+    {
+      "term" : "What does imitation depend on (2)",
+      "id" : "1571143260",
+      "definition" : "1. Identification- extent t which u identify\/relate to others \n2. Vicarious reinforcement -Whether you’ve seen someone be rewarded for that behaviour",
+      "version" : "1"
+    },
+    {
+      "term" : "Define mediational process",
+      "id" : "1571143262",
+      "definition" : "Cognitive factors which influence learning and come between stimulus and response.",
+      "version" : "1"
+    },
+    {
+      "term" : "What are the 4 mediational process and define",
+      "id" : "1571143261",
+      "definition" : "1. Attention - the extent to which we notice certain behaviours\n2. Retention- the extent to which we remember the behaviour\n3. Motor reproduction - the ability of the observer to perform the behaviour\n4. Motivation - the will to perform the behaviour which is often determined by whether it was punished -or rewarded",
+      "version" : "1"
+    },
+    {
+      "term" : "What’s a role model",
+      "id" : "1571143262",
+      "definition" : "Someone who you identify with \/ relate to \/ aspire to be like - high status, attractive, same sex etc.",
+      "version" : "1"
+    },
+    {
+      "term" : "Outline what’s meant by SLT 2 marks",
+      "id" : "1571143263",
+      "definition" : "SLT is an extension of Behaviourism and involves learning through observation as investigated by Bandura who took into account cognitive processes between a stimulus and response eg. Thoughts emotions attention retention etc.",
+      "version" : "1"
+    },
+    {
+      "term" : "AO1 16 marker paragraph SLT",
+      "id" : "1571143264",
+      "definition" : "Social learning theory (SLT) is learning through observation as investigated by Bandura, and is an extension of Behaviourism. It considers mediational processes (eg. Retention - the extent to which behaviour has been remembered) which occur between the stimulus and response, otherwise ignored by the Behaviourist approach. Imitation (replicating the behaviour of others) as outlined by SLT, depends on 2 factors which makes imitation more likely: vicarious reinforcement (indirect learning through observation of consequences of another person’s behaviour) and identification (extent to which person relates to individual being observed eg. Same sex, high status.) Through Bandura’s 1961 Bobo Doll study, he found evidence to support the hypothesis that children who passively observe aggressive behaviour from adults are more likely to imitate that behaviour and act aggressively themselves.",
+      "version" : "1"
+    },
+    {
+      "term" : "A03: EVAL: para 2 16m : mediational processes",
+      "id" : "1571143265",
+      "definition" : "One strength of SLT is that it acknowledges mediational processes and the idea that thinking occurs before acting which is seen to be a more realistic account of how humans learn. Cognitive processes such as attention, retention, motor reproduction and motivation as theorised by Bandura involve noticing behaviour, remembering it, being able to reproduce the behaviour and the desire to do so. This would suggest that humans don’t solely learn by personal experience, but also by observing the consequences of other’s actions when deciding how to further behave (VR.) Moreover, the theory of mediational processes support SLT as it is a more comprehensive explanation of human behaviour than classical and operant conditioning, therefore acting as a valuable extension to behaviourism in the world of psychology. \nDespite this, a weakness of  SLT is that it does not consider biological factors in learning. For example, Bandura’s findings in his research concerning observational learning may actually be a result of  mirror neurones in the brain which allow us to empathise with and imitate others. This suggests that SLT is not a fully comprehensive learning theory as biology is under-emphasised.",
+      "version" : "1"
+    },
+    {
+      "term" : "A03: EVAL: para 3 16m : practical application eg. Media",
+      "id" : "1571143266",
+      "definition" : "Another benefit of SLT is that is can be applied to real world situations in providing an explanation in how behaviour is learned and therefore can aid us in improving society as a whole. In Bandura’s bobo doll experiment which supports SLT, a major finding was that children who observed an adult displaying aggressive behaviour towards the doll drastically increased the likelihood of them displaying aggression almost identical to that which they witnessed. This suggests that children are incredibly impressionable and this evidence has proved to be invaluable in understanding our society and working towards making the world a better place. This was demonstrated through the changing of times when explicit movies (eg. Swearing, horror genre etc.) were shown in order to limit exposure to children, as well as the increase in age ratings on video games which involve violence. These media changes work to decrease violence and anti-social behaviour as a direct result of Bandura’s shocking findings used as evidence to support SLT, outlining the significance of SLT in ameliorating society.",
+      "version" : "1"
+    },
+    {
+      "term" : "A03: EVAL: para 4 16m : lab study",
+      "id" : "1571143267",
+      "definition" : "Another weakness of SLT is that its main supporting evidence, Bandura’s Bobo doll study, can be said to lack ecological validity (the extent to which findings reflect real-world scenarios) given that it occurred  in a highly controlled lab-setting out of a human’s natural environment, increasing the likelihood of abnormal behaviour. As well as this, the Bobo doll used can be said to be a demand characteristic (cues in a study which may reveal true purpose to participants, leading to altered behaviour) as its main purpose is to be hit, an act of aggression. This adds an extra variable which influences aggressive behaviour, therefore reducing the validity of the experiment as a clear cause and effect relationship becomes less defined. Overall, SLT can be said to be less valid as its evidential study tells us little about how children learn, let alone adults in the real world.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe Bandura’s bobo doll study",
+      "id" : "12212234298",
+      "definition" : "Aims: investigate the effect of observed aggression on children’s behaviour.\n-“” same sex modelling “”\nProcedure: 36 girls 36 boys of similar ages from Stanford uni nursery\n-independent variable 1: aggression: model behaved aggressively towards the bobo doll eg. Hammer\/hitting \n-IV2: non agressive model\n-IV3: no model\n- children observed behvaiour of model\n-children taken to play with toys\n-children quickly removed from room with toys and into one with BBD provoking frustration\n-pts observed using one way mirror for 20 mins with BBD and hammers, guns and non-agg. Toys like crayons. \nFindings: Children who observed aggressive behvaiour = more likely to be aggressive towards the BBD.\nBoys = more physically aggressive\nGirls= more verbally aggressive\nChildren were more likely to imitate behvaiour of the same-sex role model.\nConclusion: aggression can be learned via the mechanisms of SLT \nImitation of aggression can occur after only one exposure to aggressive act\nAggression may be observed in one setting and imitated in a different one.",
+      "version" : "1"
+    },
+    {
+      "term" : "EVAL: Banduras BBD exp.",
+      "id" : "12212234301",
+      "definition" : "+) well controlled, standardised procedure: study’s can be replicated and therefore can be peer-reviewed across time, more reliable. \n+) external validity as it can be applied to real world settings as it relates to children being exposed to violence on TV\/in media\n-) les eco valid as children don’t learn aggression in lab conditions - real life violence is generally observed in familiar settings with familiar adults, so can’t be fully generalised. \n-)ethical issues: psychological harm by being exposed to violence - distress\/alarm\/upset\nAggressive phase may have upset kids\n-children may have later gone on to use similar aggression outside of experiment (harmful to society)",
+      "version" : "1"
+    },
+    {
+      "term" : "Define cognitive approach",
+      "id" : "12212234303",
+      "definition" : "The study of internal mental processes, the role of the schema, the use of theoretical and computer models to explain and make inferences about mental processes and cognitive neuroscience.",
+      "version" : "1"
+    },
+    {
+      "term" : "Define inferences",
+      "id" : "12212234304",
+      "definition" : "Indirect measure\/conclusion reached based on evidence and reasoning about mental processes based on observed behaviour.",
+      "version" : "1"
+    },
+    {
+      "term" : "What is cognition",
+      "id" : "12212234305",
+      "definition" : "Internal mental processes (Our thoughts\/perspectives\/expectations and personal view of reality.)\nEg. Memory, perception, attention",
+      "version" : "1"
+    },
+    {
+      "term" : "Differences between behaviourist approach and cog.",
+      "id" : "12212234306",
+      "definition" : "Argues that cog ps should and can be studied by using inferences\n- Behaviourism: behaviour is due to external environmental cues \n-cog.: behaviour is due to internal mental processes\nModels: \nBM: stimulus-> black box->response\nCM: input-> mediational process->output",
+      "version" : "1"
+    },
+    {
+      "term" : "Define cognitive neuroscience",
+      "id" : "12212234307",
+      "definition" : "An area of psychology which examines underlying neural bases of cognitive functions.",
+      "version" : "1"
+    },
+    {
+      "term" : "Theoretical models define",
+      "id" : "12212234308",
+      "definition" : "Simplified representations of a particular mental process based on research evidence",
+      "version" : "1"
+    },
+    {
+      "term" : "Computer model define",
+      "id" : "12212234309",
+      "definition" : "Using computer analogies as a representation of human cognition.",
+      "version" : "1"
+    },
+    {
+      "term" : "Basic assumptions of cog approach",
+      "id" : "12212234310",
+      "definition" : "-cog ps can be and should be studied scientifically using lab studies\n-mental processes are private and can’t be observed - conclusions made using inferences\n-look at mental processes to understand behaviour \nFocus on how people perceive, store and interpret info.\n-mind works like a computer",
+      "version" : "1"
+    },
+    {
+      "term" : "What are the key ideas underlying the cog approach",
+      "id" : "12212234311",
+      "definition" : "Behaviour results from cog ps and inferences abt processes can be made from examining exulting behaviours, mind functions like a computer and the role of schemas.",
+      "version" : "1"
+    },
+    {
+      "term" : "Types of research methods used by cog. Psychologists",
+      "id" : "12212234312",
+      "definition" : "Lab, field, natural - occasionally introspection, brain imaging in cog. Neuroscience",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the cognitive computer analogy",
+      "id" : "12212234313",
+      "definition" : "Information enters through senses, like computers use a keyboard, signals are passed through the brain (neurons) like wires in computers, brain acts as central processor in a computer, encoding and storing info. Info id passed back out of the brain for retrieval\/action like output to a computer monitor.",
+      "version" : "1"
+    },
+    {
+      "term" : "What are problems caused by schemas?",
+      "id" : "12212234313",
+      "definition" : "Prejudice and stereotypes can develop which then affect interpretation of new info. Can prevent learning of new info if we ignore info that we cannot fit into an already existing schema. Can be flawed and lead us to act anti-socially.",
+      "version" : "1"
+    },
+    {
+      "term" : "What is a schema and what purpose does it have",
+      "id" : "12212234314",
+      "definition" : "Schema is a mental framework containing all information acquired about an object, concept or topic learned through experiences (3-types 1. Role 2. Event 3. Self) these allow us to make mental shortcuts to process info quicker and prevent us being overwhelmed bu incoming stimuli.",
+      "version" : "1"
+    },
+    {
+      "term" : "Limitations of computer analogy",
+      "id" : "12212234315",
+      "definition" : "Ignores role of emotions, human memory is unreliable, computer memory is not, humans are thought to have some free will, computers do not.",
+      "version" : "1"
+    },
+    {
+      "term" : "How do schemas change as we learn",
+      "id" : "12212234317",
+      "definition" : "Start basic and flawed (eg. Sucking and grasping) and gets more advanced and developed through experiences, with more information stored in one schema or more schemas produced to house the info.",
+      "version" : "1"
+    },
+    {
+      "term" : "What is cognitive neuroscience",
+      "id" : "12212234318",
+      "definition" : "Aims to use brain imaging to map behvaiour to brain function in an effort to identify where and. How particular mental ps take place.",
+      "version" : "1"
+    },
+    {
+      "term" : "Which elements of psychopathology have we explained with the cog approach",
+      "id" : "12212234318",
+      "definition" : "Depression schizophrenia",
+      "version" : "1"
+    },
+    {
+      "term" : "Strengths of cog approach",
+      "id" : "12212234319",
+      "definition" : "Application to CBT, has experimental evidence",
+      "version" : "1"
+    },
+    {
+      "term" : "Weaknesses of cog app",
+      "id" : "12212234320",
+      "definition" : "Reliance on inferences and machine reductionism",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the role of theoretical models",
+      "id" : "12212234321",
+      "definition" : "Simplified representations based on current research evidence. These are often in picture form represented by boxes and arrows which show the flow of information, in terms of direction and stages.",
+      "version" : "1"
+    },
+    {
+      "term" : "Who came up with the working memory model",
+      "id" : "12212234322",
+      "definition" : "Baddeley and hitch",
+      "version" : "1"
+    },
+    {
+      "term" : "Who came up with the multi store model",
+      "id" : "12212234323",
+      "definition" : "Atkinson and shiffrin",
+      "version" : "1"
+    },
+    {
+      "term" : "What are computer models",
+      "id" : "12212234324",
+      "definition" : "Where the mind is compared to a computer by suggesting there are similarities in the way that info is processes. The models use concepts like ‘ central processing unit’ (brain) ‘coding’ (making info usable) and ‘stores’ (to hold information). These models have been useful in the development of AI.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the role of computer models",
+      "id" : "12212234325",
+      "definition" : "Development of computers and computer programming led to a focus on the way that sensory information is passed through the systems. Using a computer analogy, information is passed through the senses, encoding into memory and then combined with previously stored information to complete a task. (Input-> process-> output)",
+      "version" : "1"
+    },
+    {
+      "term" : "What are the 3 stages of the info process in model",
+      "id" : "12212234326",
+      "definition" : "Input -> processing -> output\nEg. Hear dog bark -> remember dogs scared of fireworks and infer dog saw firework -> bring dog into house",
+      "version" : "1"
+    },
+    {
+      "term" : "Define cognitive neuroscience",
+      "id" : "12212234326",
+      "definition" : "The scientific study of the influence of brain structure on mental processes.",
+      "version" : "1"
+    },
+    {
+      "term" : "How is cognitive neuroscience useful",
+      "id" : "12212234327",
+      "definition" : "Advances in brain scanning technology means scientists have been able to describe the neurological basis of mental processing. Eg. Research into memory has linked episodic and semantic memories to the prefrontal cortex. It has also been useful in stabilising the neurological basis of some disorders eg. Basal ganglia and OCD.",
+      "version" : "1"
+    },
+    {
+      "term" : "Briefly explain 2 strengths and 2 weaknesses of the cognitive approach",
+      "id" : "12212234328",
+      "definition" : "6. One strength is the use of lab studies as it increases the internal validity of the experiment since it is highly controlled method of research. This results in increased validity of the evidence supporting the cognitive approach, therefore increasing the validity and comprehensiveness of the approach as a whole as a clear cause and effect relationship is easily established. \n\tOne strength is its use of theoretical models to represent internal mental processes. This is a strength because of the ease with which they can be understood due to the simple flow diagram format. Eg, input -> mental event -> output\n\tOne limitation is that mental processes is not directly observed, given that inferences are indirectly concluded about observable behaviour. This suggests that the approach is less valid as it is not based on observable fact. \n\tOne limitation is that it could be criticised as being overly mechanistic eg. Likening the workings of the mind to that of a computer. This is a weakness because it oversimplifies complexity of the human mind such as emotions and motivation, to operating like unemotional wires and hard drives.",
+      "version" : "1"
+    },
+    {
+      "term" : "Explain one assumption of the cognitive approach (3m)",
+      "id" : "12212234329",
+      "definition" : "That the human mind works like a computer because there is an input of info, processing and an output of behaviour like there is info of input, processing and output in a computer when processing information. It is an assumption as it is not fully comprehensive given that it doesn’t account for emotions or motivation, and suggests that the human mind is like a computer in the way it stores, encodes and retrieves info.",
+      "version" : "1"
+    },
+    {
+      "term" : "State some assumptions of the cognitive approach",
+      "id" : "12212234330",
+      "definition" : "That the human mind works like a computer in the way it stores, encodes and retrieves info. \nInternal mental processes can be studied. \nSchemas are involved in mental processes. \nIt’s possible to make inferences abt mental processes.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the biological approach",
+      "id" : "12212234331",
+      "definition" : "Assumes psychological functioning is a product of our biology, including our genes (genotypes\/phenotyps) bio. Structures (brain\/neurons), brain chemistry (neurotransmitters) and evolution (natural and sexual selection).",
+      "version" : "1"
+    },
+    {
+      "term" : "What are some assumptions of the biological approach ?",
+      "id" : "12212234332",
+      "definition" : "-All behaviour has a biological origin\n-we must focus on genes, NS, neurochemistry and evolution to explain human behaviour",
+      "version" : "1"
+    },
+    {
+      "term" : "Define genotype",
+      "id" : "12212234333",
+      "definition" : "Genetic making of individual",
+      "version" : "1"
+    },
+    {
+      "term" : "Define gene",
+      "id" : "12212234334",
+      "definition" : "Part of chromosome containing DNA",
+      "version" : "1"
+    },
+    {
+      "term" : "Define neurochemistry",
+      "id" : "12212234335",
+      "definition" : "Study of chemical and neural processes associated with NS. Acknowledges role of chemicals in behaviour e.g. neurotransmitters imbalance is resulting in abnormal behaviour e.g. serotonin (lack of equals aggression and depression\/ dopamine – schizophrenia)",
+      "version" : "1"
+    },
+    {
+      "term" : "Define evolution",
+      "id" : "12212234335",
+      "definition" : "The change over successive generations of the genetic makeup of a particular species. Changes in the genotype of a population are caused by natural\/sexual selection.",
+      "version" : "1"
+    },
+    {
+      "term" : "Define phenotype",
+      "id" : "12212234336",
+      "definition" : "Observable characteristics of an individual due to the interaction of genes with the environment.",
+      "version" : "1"
+    },
+    {
+      "term" : "Downside the use of evolution as a reason for behaviour",
+      "id" : "12212234337",
+      "definition" : "Doesn’t account for homosexual relationships\/alternate reasons why\nLacks temporal validity",
+      "version" : "1"
+    },
+    {
+      "term" : "How do biologists suggest behaviour has a genetic basis?",
+      "id" : "12212234338",
+      "definition" : "Biologists suggest that we inherit genes which determine how we behave (our genotypes are the genetic information). Evidence to support the genetic explanation of behvaiour comes from calculating concordance rates (extent to which two people share the same characteristic). Higher concordance rates are often found for monozygotic twins than dizygotic as they are 100% identical in terms of genes..",
+      "version" : "1"
+    },
+    {
+      "term" : "How do biologists suggest that behaviour has a neuroanatomical basis?",
+      "id" : "12212234339",
+      "definition" : "Use structure of brain to explain human behaviour. Eg. Broca identified language production was located in the frontal lobe in a place now known as ‘Brocas area’. If this area becomes damaged then patients suffer with brocas aphasia which is partial loss of ability to produce language.",
+      "version" : "1"
+    },
+    {
+      "term" : "How do biologists suggest that evolution can explain our behvaiour?",
+      "id" : "12212234340",
+      "definition" : "Darwin suggests that any genetically determined behaviour which enhances survival  and reproduction will be passed on to future generations (theory of natural selection) these genes are ‘adaptive’ bc they aid survival and reproduction eg. Attachment behaviours in new horns aid their survival.",
+      "version" : "1"
+    },
+    {
+      "term" : "Strength the biological approach",
+      "id" : "12212234341",
+      "definition" : "+) One strength of the biological approach is that it has beneficial real world applications such as aiding the development of drug therapy to improve the lives of people suffering with mental disorders. Through the biological approach psychologists  investigated into the role of neurotransmitters (eg. Hormones) in influencing behaviour. For example, we know that imbalances in serotonin can cause mood swings and when severely low, can cause depression. As a result of this conclusion psychoactive drugs (eg. SSRIs) have been developed to treat people. Although they are not effective for everyone they can improve the quality life of many by reducing suffering and are therefore a strength of this approach.",
+      "version" : "1"
+    },
+    {
+      "term" : "Main assumptions of humanistic approach",
+      "id" : "12212234342",
+      "definition" : "-Every individual is unique (idiographic approach), prioritises case studies, doesn’t believe in generalisable laws as ppl can’t be compared as too unique \n-believes in free will: we ultimately have power to choose our own actions and are in control of our behaviour \n-holistic: no point looking at just one aspect of an individual as we might miss what’s actually affecting them. \n-scientific method is not good way to understand behaviour: too objective as humans are subjective in how they think and behave so its inappropriate.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe maslows heirarchy of needs",
+      "id" : "12212234342",
+      "definition" : "Created to show what motivates behvaiour and the sequential steps required to reach self actualisation (our full potential). Involves basic needs being met before we can satisfy higher psychological needs like self esteem and self actualisation.",
+      "version" : "1"
+    },
+    {
+      "term" : "Label and describe hierarchy of needs",
+      "id" : "12212234343",
+      "definition" : "1. Self actualisation : becoming fulfilled and achieving full potential. ( “we all have drive but dont all achieve)\n2. Esteem : self-respect, respect from others, confidence \n3. Love and belonging : friendship, family, sexual intimacy \n4. Safety : security of employment, resources, shelter\n5. Physiological : food, water, alive",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe self actualisation",
+      "id" : "12212234344",
+      "definition" : "The desire to grow psychologically and fulfill ones potential. Psychologists argue it is a drive all humans have but dont always achieve. Not a permanent state (if other needs aren’t being met it can change). Characteristics of self actualised people: able to perceive reality efficiently, look at life objectively, can tolerate uncertainty, accepting of themselves and others, resistant to enculturation but not purposely unconventional.",
+      "version" : "1"
+    },
+    {
+      "term" : "Does M’s HoN have temporal validity?",
+      "id" : "12212234345",
+      "definition" : "Not fully because it doesnt consider significant changes in society and how that may impact needs eg technology",
+      "version" : "1"
+    },
+    {
+      "term" : "Does M’s HoN have population validity?",
+      "id" : "12212234346",
+      "definition" : "Not fully as not everyone’s experiences are the same, eg. May have similar life experiences like romance and achievements but aren’t self actualisers or display self actualisation without having romance for example. \nCan’t be generalised properly to whole world as mostly to do with individualistic cultures. Eg. In collectivist cultures, full potential is how others perceive your rather than how you perceive yourself, so their full potential would look differently to someone’s in an individualistic culture.",
+      "version" : "1"
+    },
+    {
+      "term" : "What did Carl rogers suggest needed to be achieved to reach self actualisation?",
+      "id" : "12212234347",
+      "definition" : "Congruence (alignment between ideal and perceived self. ) if incongruent, slrfactualisation impossible becayse leads to low self worth (esteem).",
+      "version" : "1"
+    },
+    {
+      "term" : "Rogers’ explanation for low self-esteem, anxiety or incongruence and explain it.",
+      "id" : "12212234348",
+      "definition" : "Conditions of worth (set by parents or themself or friends or others) caused by conditional love as reduces sense of worth, only good enough IF they do something. These requirements needed to be met to be loved also referred to as conditional positive regard and feelings of worthlessness or low self esteem can be explained by a lack of unconditional positive regard, where the person loves,accepts and views the self with respect regardless of any life event or outcome. These conditions of worth can be real or perceived.",
+      "version" : "1"
+    },
+    {
+      "term" : "Rogers’ therapy style",
+      "id" : "12212234349",
+      "definition" : "Client - centred therapy (CCT) : aims to reach congruent state where therapist provides client with unconditional positive regard which they failed to receive as children.",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe Aronoff’s study",
+      "id" : "12212234350",
+      "definition" : "Natural experiment \nCompared cane cutters and fishermen in West Indies\nCane cutters paid small amount but high job security \nFishermen paid well but had low job security \nFishermen higher levels on hierarchy of needs than cane cutters \nConcluded that only men who satisfied lower levels of pyramid could progress to being a fisherman as cane cutters were still trying to achieve safety of money whereas fishermen had that and could achieve high self esteem which cane cutters didn’t have.",
+      "version" : "1"
+    },
+    {
+      "term" : "Evaluate Aronoff‘s study",
+      "id" : "12212234351",
+      "definition" : "Study supports Maslow‘s hierarchy of needs theory as it has high ecological validity given that it studied people in their natural environment so it is realistic to everyday situations\n-It only studied people from one culture so results can’t be generalised the wider population without ethnocentrism and beta bias (lacks population validity).",
+      "version" : "1"
+    }
+  ],
+  "source_type" : "",
+  "created_by" : "",
+  "lang_definitions" : "en-US",
+  "created_date" : "1756814005.043218",
+  "title" : "Approaches - Psych",
+  "lang_terms" : "en-US"
+}

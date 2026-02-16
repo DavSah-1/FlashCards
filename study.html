@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <title>Flashcards Pro - Study</title>
+    
+    <!-- PWA Configuration -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Flashcards">
+    <link rel="apple-touch-icon" href="icons/icon-192.png">
+    <meta name="theme-color" content="#4b6cb7">
+    
+    <!-- Styles & Icons -->
+    <link rel="stylesheet" href="style-ipad.css">
+    <link rel="stylesheet" href="fonts/fontawesome.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-left">
+                <a href="index.html" class="back-btn">
+                    <i class="fas fa-arrow-left"></i> Back
+                </a>
+                <h1 id="subjectTitle"><i class="fas fa-book"></i> Subject</h1>
+            </div>
+            <div class="stats">
+                <span id="card-count">0 cards</span>
+                <span id="progress">0% mastered</span>
+            </div>
+        </header>
+
+        <div class="main-content">
+            <!-- Flashcard Display -->
+            <div class="flashcard-container">
+                <div class="flashcard" id="flashcard">
+                    <div class="flashcard-front">
+                        <h2 id="question">Loading...</h2>
+                        <p class="hint">Tap to flip card</p>
+                    </div>
+                    <div class="flashcard-back">
+                        <h2 id="answer">Answer</h2>
+                        <div class="difficulty-buttons">
+                            <button class="difficulty-btn easy" data-difficulty="easy">
+                                <i class="fas fa-check-circle"></i> Easy
+                            </button>
+                            <button class="difficulty-btn medium" data-difficulty="medium">
+                                <i class="fas fa-minus-circle"></i> Medium
+                            </button>
+                            <button class="difficulty-btn hard" data-difficulty="hard">
+                                <i class="fas fa-times-circle"></i> Hard
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="navigation">
+                    <button id="prev-btn" class="nav-btn">
+                        <i class="fas fa-chevron-left"></i> Previous
+                    </button>
+                    <span id="card-position">0/0</span>
+                    <button id="next-btn" class="nav-btn">
+                        Next <i class="fas fa-chevron-right"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Controls -->
+            <div class="controls">
+                <button id="flip-btn" class="control-btn">
+                    <i class="fas fa-sync-alt"></i> Flip Card
+                </button>
+                <button id="shuffle-btn" class="control-btn">
+                    <i class="fas fa-random"></i> Shuffle
+                </button>
+                <button id="add-card-btn" class="control-btn control-btn-primary">
+                    <i class="fas fa-plus"></i> Add Card
+                </button>
+                <button id="reset-btn" class="control-btn">
+                    <i class="fas fa-redo"></i> Reset Progress
+                </button>
+            </div>
+
+            <!-- Card List -->
+            <div class="card-list">
+                <h3><i class="fas fa-list"></i> Cards in this Subject</h3>
+                <div id="cards-container">
+                    <p class="empty-message">No flashcards yet. Add your first one!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Add Card Modal -->
+    <div id="addCardModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2><i class="fas fa-plus"></i> Add New Card</h2>
+                <button class="modal-close" id="closeAddCardModal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label for="questionInput">Question</label>
+                    <input type="text" id="questionInput" placeholder="Enter question..." maxlength="200">
+                    <span class="char-count" id="questionChar">0/200</span>
+                </div>
+                <div class="form-group">
+                    <label for="answerInput">Answer</label>
+                    <textarea id="answerInput" placeholder="Enter answer..." rows="4" maxlength="1000"></textarea>
+                    <span class="char-count" id="answerChar">0/1000</span>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button id="cancelAddCardBtn" class="btn-secondary">Cancel</button>
+                <button id="confirmAddCardBtn" class="btn-primary">Add Card</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="study-app-ipad.js"></script>
+</body>
+</html>

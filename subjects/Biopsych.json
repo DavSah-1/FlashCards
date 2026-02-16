@@ -1,0 +1,321 @@
+{
+  "id" : "0",
+  "term_count" : "51",
+  "sample" : "0",
+  "modified_date" : "1761660040.447051",
+  "version" : "0",
+  "terms" : [
+    {
+      "term" : "Describe the divisions of the NS (6m)",
+      "id" : "7366346121",
+      "definition" : "The human nervous system is divided into two broad sections, the central nervous system (CNS) which contains the brain and spinal cord and is responsible for controlling behaviour and regulating the body's physiological processes through collecting information from sensory receptors and sending messages to effectors, eg. Muscles and glands, and the peripheral nervous system (PNS) which consists of all the nerves outside of the CNS and is responsible for relaying nerve impulses form the CNS to rest of the body and vice versa, via neurons; It also sends information from the outside world to the CNS to be processed. The PNS is then sub-divided into the Autonomic nervous system (ANS) which controls vital involuntary actions such as heartbeat and digestion and the somatic nervous system (SNS) which regulates voluntary actions such as skeletal muscle movement. The ANS is finally split up into the sympathetic NS which is responsible for the “fight or flight” response and parasympathetic NS which is responsible for the “rest and digest” response.",
+      "version" : "1"
+    },
+    {
+      "term" : "What is the human NS",
+      "id" : "7366346127",
+      "definition" : "Specialised network of cells in the human body and the primary internal communication system.",
+      "version" : "1"
+    },
+    {
+      "term" : "Function of human NS",
+      "id" : "7366346131",
+      "definition" : "To collect, process and respond to info in environment \nTo coordinate workings of different organs and cells in body",
+      "version" : "1"
+    },
+    {
+      "term" : "2 subsections of NS",
+      "id" : "7366346135",
+      "definition" : "Peripheral and central",
+      "version" : "1"
+    },
+    {
+      "term" : "Structure of peripheral",
+      "id" : "7366346139",
+      "definition" : "All nerves outside of central (nerves stretch from spinal cord to extremities)",
+      "version" : "1"
+    },
+    {
+      "term" : "Function of pns",
+      "id" : "7366346142",
+      "definition" : "Relays nerve impulses between cns and body (+outside world to CNS), subdivided into ans and sns which regulate voluntary and involuntary processes.",
+      "version" : "1"
+    },
+    {
+      "term" : "ANS function",
+      "id" : "7366346145",
+      "definition" : "Regulates involuntary vital actions eg heart beat, breathing, digestion. Stress response (symp \/ parasympathetic). Regulates homeostasis.",
+      "version" : "1"
+    },
+    {
+      "term" : "Sns function",
+      "id" : "7366346148",
+      "definition" : "Regulates voluntary processes (muscle movement)\nVia motor pathways, carries sensory info from outside world to brain and provides effector response\nReceives info from sensory receptors",
+      "version" : "1"
+    },
+    {
+      "term" : "Sns structure",
+      "id" : "7366346150",
+      "definition" : "Sensory receptors (carry info to brain and spinal cord)\nMotor pathways (allows brain to control movement)",
+      "version" : "1"
+    },
+    {
+      "term" : "ANS Structure",
+      "id" : "7366346152",
+      "definition" : "Sympathetic \/ parasympathetic",
+      "version" : "1"
+    },
+    {
+      "term" : "Sympathetic function",
+      "id" : "7366346154",
+      "definition" : "Fight or flight \nEnables us to deal with stressors in the environment \nImpulse travels from sympathetic NS to organs to prepare for action when faced with dangerous situations. Eg. HR BR BP all increase whilst suppressing less important processes for the situation like digestion.",
+      "version" : "1"
+    },
+    {
+      "term" : "Parasympathetic function",
+      "id" : "7366346156",
+      "definition" : "Rest and digest \n-relaxes body and return it to normal resting state after stressor has passed\/been dealt with.\n-slows down HR BP BR, any previously slowed down functions eg. Digestion restarted.",
+      "version" : "1"
+    },
+    {
+      "term" : "CNS structure",
+      "id" : "7366346158",
+      "definition" : "Brain \/ spinal cord",
+      "version" : "1"
+    },
+    {
+      "term" : "CNS function",
+      "id" : "7366346160",
+      "definition" : "Controls behvaiour \nRegulates body’s physiological processes by collecting info from sensory receptors and sending impulses to effectors.",
+      "version" : "1"
+    },
+    {
+      "term" : "CNS spinal cord specific function",
+      "id" : "7366346162",
+      "definition" : "Relays info between brain and body \nConnects pns and nerves \nResponsible for reflex actions",
+      "version" : "1"
+    },
+    {
+      "term" : "Cerebral cortex S+F",
+      "id" : "7366346164",
+      "definition" : "Wrinkly outer layer of Brian \n3mm thick \nPeaks and troughs = sulci and gyri (for more surface area and optimal functioning \nOnly in mammals",
+      "version" : "1"
+    },
+    {
+      "term" : "Diencephalon S+F",
+      "id" : "7366346165",
+      "definition" : "Contains thalamus :\nRelay station for nerve impulses from senses, routes them to appropriate part of brain to be processes. \nContains hypothalamus: \nResponsible for homeostasis \nLinks nervous and endocrine system",
+      "version" : "1"
+    },
+    {
+      "term" : "Cerebellum S+F",
+      "id" : "7366346167",
+      "definition" : "“Little brain” - controls balance and coordination",
+      "version" : "1"
+    },
+    {
+      "term" : "Brain stem S+F",
+      "id" : "7366346169",
+      "definition" : "Connects brain and spinal cord \nControls involuntary processes (consciousness, HR, Breathing)",
+      "version" : "1"
+    },
+    {
+      "term" : "Frontal lobe S+F",
+      "id" : "7366346171",
+      "definition" : "Higher order functions eg. Planning, logic, abstract reasoning.\nContains motor cortex to bring about movement.",
+      "version" : "1"
+    },
+    {
+      "term" : "Parietal lobe",
+      "id" : "7366346173",
+      "definition" : "Integrates info from different senses\nPlays important role in spatial navigation \nContains somatosensory cortex",
+      "version" : "1"
+    },
+    {
+      "term" : "Temporal lobe S+F",
+      "id" : "7366346174",
+      "definition" : "Processes auditory info\nAuditory cortex",
+      "version" : "1"
+    },
+    {
+      "term" : "Occipital lobe S+F",
+      "id" : "7366346176",
+      "definition" : "Visual cortex \nProcesses visual info",
+      "version" : "1"
+    },
+    {
+      "term" : "Define nerve impulse",
+      "id" : "7366346178",
+      "definition" : "Wave of electrochemical changes which travel along length of neuron",
+      "version" : "1"
+    },
+    {
+      "term" : "Define neuron",
+      "id" : "7366346180",
+      "definition" : "Specialised cells adapted to ensure efficient transmission of electrical impulses unidirectionally across the body’s systems",
+      "version" : "1"
+    },
+    {
+      "term" : "Label the parts of a neuron",
+      "id" : "7366346181",
+      "definition" : "Dendrites, soma, axon, axon terminal",
+      "version" : "1"
+    },
+    {
+      "term" : "Outline structure and function of a neuron",
+      "id" : "7366346183",
+      "definition" : "Long - able to transport electrical impulses quickly \/ efficiently, requiring minimal neurons to get from sens organ to spinal cord\nMyelin sheath - insulates axon allowing for faster transmission of electrical impulses\nDendrites- many branches containing lots of receptors allow for large surface area for more connections (faster transmission)\nSoma contains nucleus and other organelles, provides energy for function",
+      "version" : "1"
+    },
+    {
+      "term" : "Compare differences between 3 types of neurons (structural)",
+      "id" : "7366346185",
+      "definition" : "Sensory has soma in axon whilst relay and motor have it at one end. Relay has a short axon whilst sensory and motor are longer. Sensory is attached to receptor cell whilst motor is attached to effector and relay is within spinal cord.",
+      "version" : "1"
+    },
+    {
+      "term" : "Compare functional differences between relay motor sensory",
+      "id" : "7366346187",
+      "definition" : "Sensory transmits electrical impulses from sense organ to CNS (receives info)\nRelay is within spinal cord used during reflex arcs between sensory and motor (processes info)\nMotor transmits impulse from CNS to effector to bring about a response",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe s and f of a neuron",
+      "id" : "7366346188",
+      "definition" : "Neurons enable communication within the NS\nSoma contains nucleus and genetic material, as well as other organelles which provide the cell with energy to transmit electrical impulses at a fast rate.\nBranch like dendrites extend from cell body and have many receptors allowing for faster transmission rate of synaptic transmission\nAxon carries message away from soma and has myelin sheath (insulator) to increase speed of transmission\nAxon terminal contain neurotransmitters in vesicles which diffuse during synaptic transmission",
+      "version" : "1"
+    },
+    {
+      "term" : "Describe the structure and process of synaptic transmission (6)",
+      "id" : "7366346190",
+      "definition" : "Action potential travels down axon unidirectionally and reaches pre-synaptic membrane.\nVesicles move towards axon terminal and release neurotransmitters into synaptic gap (electrical - chemical)\nNeurotransmitters diffuse across gap \nBind with receptors on postsynaptic neuron (back to electrical)\nNeurotransmitters are excitory (noradrenaline\/dopamine) or inhibitory(serotonin\/GABA) decided by summation\nAfter this reuptake may occur where neurotransmitters are taken back into vesicles to be reused or they are broken down by enzymes.",
+      "version" : "1"
+    },
+    {
+      "term" : "2 examples of inhibitory neurotransmitters",
+      "id" : "7366346192",
+      "definition" : "Serotonin \nGABA",
+      "version" : "1"
+    },
+    {
+      "term" : "3 examples of excitory neurotransmitters",
+      "id" : "7366346194",
+      "definition" : "Noradrenaline\nDopamine\nAcetylcholine",
+      "version" : "1"
+    },
+    {
+      "term" : "What do excitory neurotransmitters do",
+      "id" : "7366346196",
+      "definition" : "Increase the likelihood of an impulse being transferred to the postsynaptic neuron. Results in an excitatory postsynaptic potential which means it is more likely to be reuptaken.",
+      "version" : "1"
+    },
+    {
+      "term" : "What do inhibitory neurotransmitters do",
+      "id" : "7366346198",
+      "definition" : "Decrease likelihood of presynaptic neuron firing as binding results in inhibitory postsynaptic potential.",
+      "version" : "1"
+    },
+    {
+      "term" : "Define summation",
+      "id" : "7366346199",
+      "definition" : "Determines whether or not cell fires by calculating the sum of excitatory and inhibitory post synaptic potentials",
+      "version" : "1"
+    },
+    {
+      "term" : "What is the endocrine system made of?",
+      "id" : "7366346201",
+      "definition" : "Glands and hormones",
+      "version" : "1"
+    },
+    {
+      "term" : "Endocrine system function",
+      "id" : "7366346203",
+      "definition" : "Metabolism \nGrowth \nFight \/ flight \nRest \/ digest",
+      "version" : "1"
+    },
+    {
+      "term" : "Adrenal gland structure",
+      "id" : "7366346205",
+      "definition" : "Adrenal medulla \nAdrenal cortex",
+      "version" : "1"
+    },
+    {
+      "term" : "Adrenal Cortex function",
+      "id" : "7366346206",
+      "definition" : "Produces cortisol, released due to chronic stress\nMaintains blood glucose, suppresses immune system, low sensitivity to pain",
+      "version" : "1"
+    },
+    {
+      "term" : "Adrenal medulla function",
+      "id" : "7366346208",
+      "definition" : "Releases nor\/adrenaline, due to acute stress preparing body for fight\/flight \nIncreased BR,HR,RR\nDilated pupils \nSuppresses digestive system and salivation",
+      "version" : "1"
+    },
+    {
+      "term" : "Pituitary gland function",
+      "id" : "7366346210",
+      "definition" : "Controlled by hypothalamus\nReleases hormones which control other glands\nAnterior pituitary (releases ACTH) as part of HPA axis response to chronic stress. Produces LH and FSH as part of menstrual cycle.\nPosterior pituitary (release oxytocin). Stimulates contraction of uterus in childbirth - involved in mother-infant bonding. Reduces anxiety and involved in sexual behaviour in males. \nIn charge of growth hormones",
+      "version" : "1"
+    },
+    {
+      "term" : "Outline the fight \/ flight response",
+      "id" : "7366346212",
+      "definition" : "Body’s automatic phsyiological reaction to perceived stressors. Prepares body to fight\/flee to maximise survival. Works as part of ANS (Symp. Branch) alongside endocrine system. Rapidly mobilises energy stores and focuses body’s resources on immediate action.",
+      "version" : "1"
+    },
+    {
+      "term" : "Outline the role of the hypothalamus",
+      "id" : "7366346214",
+      "definition" : "Controls pituitary gland\nStimulates it, triggering ANS (symp. Branch) for fight\/flight response. \nLinks NS and endocrine system\nDetects stressor after notified by amygdala \nTriggers SAM pathway (acute stress)\nHPA axis for chronic stress\nMaintains homeostasis \nCalls for hormone release via pituitary gland, controlling other glands.",
+      "version" : "1"
+    },
+    {
+      "term" : "How is the Symp. NS activated and its role",
+      "id" : "7366346216",
+      "definition" : "Amygdala notifies hypothalamus which detects stressor and activates pituitary gland. this activates sympNS which changes body to sympathetic state. SympNS sends signals via neurons to adrenal gland releasing nor\/adrenline into bloodstream which prepares body for rapid action by increasing alertness.",
+      "version" : "1"
+    },
+    {
+      "term" : "SAM pathway outline",
+      "id" : "7366346218",
+      "definition" : "Used during acute stress\nHypothalamus detects stressor and activates sympathetic NS \nAdrenal medulla stimulated to release adrenaline \nHormones circulate in bloodstream causing physiological changes such as increased BR,HR,RR Dilated pupils and suppressed digestion\/salivation",
+      "version" : "1"
+    },
+    {
+      "term" : "HPA axis outline",
+      "id" : "7366346220",
+      "definition" : "Used in chronic stress\nHypothalamus detects stressor and releases CRH \nThis stimulates pituitary gland to secrete ACTH \nACTH stimulates adrenal cortex to produce cortisol \nCortisol maintains blood glucose,suppresses immune system, lowers sensitivity to pain to help body. Pie with prolonged stress.",
+      "version" : "1"
+    },
+    {
+      "term" : "Outline role of parasympathetic NS and process of rest and digest",
+      "id" : "7366346221",
+      "definition" : "Returns body to resting state after stressor dealt eight. \nRest and digest\/homeostasis restoration counteracts effects of sympathetic NS.\nSlows HRBRRR\nStimulates digestion \nConstriction of pupils \nOverall relaxation of body",
+      "version" : "1"
+    },
+    {
+      "term" : "How does fight\/flight differ in short term vs long terms stress situations",
+      "id" : "7366346223",
+      "definition" : "Acute involves SAM chronic involves HPA axis. Hormones in acute = nor\/adrenaline chronic = cortisol \nAcute=immediate physical arousal, doesn’t last long. Chronic = sustained energy, immune suppression, health impacts if too prolonged like heart disease.",
+      "version" : "1"
+    },
+    {
+      "term" : "Why might fight or flight response not be useful during a driving test",
+      "id" : "7366346225",
+      "definition" : "Adrenaline released causing increase HR and BR, could be off putting and unhelpful eg. Sweaty hands may be harder to hold wheel. \nAllows for a quick reaction to fight or run away from stressor but neither of these options would be helpful as if you ran away or attacked the instructor you would fail the test.\nCan cause health issues if prolonged like heart disease, so it’s unhelpful as would cause unhealthiness",
+      "version" : "1"
+    },
+    {
+      "term" : "Evaluate briefly fight\/flight response",
+      "id" : "7366346226",
+      "definition" : "Outdated - not useful for modern day stressors, leads to health  issues \nTaylor et al’s contradicting evidence - andocentric bias- women have different stress response “tend and befriend” - beta bias - not fully comprehensive \nGrays “freeze” theory - rapid C-B analysis, not considered \n+provides starting point",
+      "version" : "1"
+    }
+  ],
+  "source_type" : "",
+  "created_by" : "",
+  "lang_definitions" : "en-US",
+  "created_date" : "1761660040.447051",
+  "title" : "Biopsych",
+  "lang_terms" : "en-US"
+}
