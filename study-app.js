@@ -133,10 +133,8 @@ class StudyApp {
             }
         });
 
-        // Prevent scrolling when interacting with flashcard
-        this.flashcardElement.addEventListener('touchmove', (e) => {
-            e.preventDefault();
-        }, { passive: false });
+        // Note: Scrolling within card content is now allowed
+        // The setupTouchHandler distinguishes between taps and scrolls
     }
 
     // NEW METHOD: Unified touch/click handler for iPad compatibility
